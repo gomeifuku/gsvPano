@@ -135,6 +135,8 @@ window.addEventListener( 'load', function() {
 
 		var dataUrl = this.canvas.toDataURL("image/png");
 		 document.getElementById("newImg").src = dataUrl;
+
+		 document.getElementById("sample-download").href = dataUrl;
 		console.log(this.canvas);
 		// document.getElementById("sample-download").href = dataUrl;
 		showMessage( 'Panorama loaded, street view data ' + this.copyright + '.<br/>' );
@@ -162,7 +164,6 @@ window.addEventListener( 'load', function() {
 		loader.load(pos); //パノラマを表示
 				map.panTo(pos);
 console.log(pos);
-document.getElementById("sample-download").href = document.getElementById('newImg').src
 
  // var dataUrl = canvas.toDataUrl("image/png");
 	});
