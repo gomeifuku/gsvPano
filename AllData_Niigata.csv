@@ -1,0 +1,368 @@
+No,Year,Dead,Seriously Injured,Injured,Date,Time,Weather,Longitude,Latitude,National Road,Highway,Road Type,Road Shape,Road Width,Signal,Kinds of Traffic Accident,Detail_1,Detail_2,A_Type,A_Age,B_Type,B_Age,Elderly Person,Walker,Bicycle,Temperature,Amount of Precipitation[mm],Amount of Snow[cm],Snowfall[cm],Wind Velocity[mps],Wind Direction[mps],Sunshine Duration
+1,2013,1,0,0,2013/3/28,18:18,Cloudy,139.0116111,37.90509167,0,0,Intersection,Straight,3m-5.5m,0,H2V,During cross,A pedestrian crossing,Light truck,63,Pedestrian,85,1,1,0,13.7,0,0,0,2.8,WSW,0
+2,2013,1,0,0,2013/12/3,15:26,Sunny,139.0215139,37.88673611,0,0,Intersection,Straight,5.5m-13m,0,H2V,During cross,etc,A large passenger car,70,Pedestrian,70,1,1,0,10.3,0,0,0,3.1,S,1
+3,2013,1,0,0,2013/12/31,3:15,Rain,139.1061389,37.93355278,0,0,Intersection,Straight,19.5m-,1,H2V,During cross,A pedestrian crossing,Pedestrian,74,A passenger car,35,1,1,0,4.4,0.5,0,0,1.5,SE,0
+4,2013,1,0,1,2013/7/15,11:28,Cloudy,138.9580833,37.85803611,0,0,Near_Intersection,Straight,3m-5.5m,0,V2V,etc,-1,A passenger car,71,Truck,61,1,1,0,23.7,0,0,0,4.6,NW,0.1
+5,2013,1,0,0,2013/8/12,12:48,Sunny,139.0013444,37.85541667,0,0,Intersection,Straight,5.5m-13m,0,V2V,Encounter,-1,A passenger car,55,Medium truck,47,0,0,0,31.4,0,0,0,2.9,W,1
+6,2013,1,1,0,2013/1/20,22:05,Cloudy,139.5214917,38.49961389,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,A passenger car,19,Medium truck,38,0,0,0,1.9,0,0,84,2.1,W,-1
+7,2013,1,0,0,2013/5/19,13:30,Cloudy,139.5422556,38.42909167,0,0,Normal,Curve,0,0,V,Toppling over,-1,Motorcycle 401-750cc,68,None,-1,1,0,0,24.3,0,0,0,3.2,ESE,0.2
+8,2013,1,0,0,2013/6/23,16:39,Cloudy,139.4872556,38.23559722,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 50cc or less,87,A passenger car,28,1,0,0,24.5,0,0,0,2.4,WNW,1
+9,2013,1,0,0,2013/8/13,23:22,Sunny,139.665625,38.06279167,1,0,Normal,Straight,0,0,V,etc,-1,A passenger car,47,None,-1,0,0,0,21.2,0,0,0,0,0,-1
+10,2013,1,0,0,2013/10/7,11:40,Sunny,139.4762361,38.22630278,0,0,Other,Othre,0,0,V,Parking,Driver absent,A passenger car,63,Property etc.,-1,0,0,0,29.1,0,0,0,2.4,SE,1
+11,2013,1,0,0,2013/1/6,19:12,Cloudy,139.3380806,38.03266944,0,0,Normal,Straight,0,0,H2V,On the back,-1,A passenger car,26,Pedestrian,50,0,1,0,0.3,0,0,49,2.3,WNW,-1
+12,2013,1,0,0,2013/5/10,7:00,Cloudy,139.4084444,38.08558333,0,0,Normal,Straight,0,0,V,Outside the road,Falling,Vehicle,80,None,-1,1,0,1,7.3,0,0,0,0.1,0,0
+13,2013,1,0,1,2013/1/9,9:10,Snow,139.3597861,37.91264722,0,0,Intersection,Curve,0,0,V2V,Turning right,Turn right,A passenger car,77,A passenger car,53,1,0,0,-0.9,2.5,4,73,0.5,SSW,0
+14,2013,1,0,0,2013/1/31,19:51,Sunny,139.3231389,37.94517778,0,0,Near_Intersection,Straight,0,1,H2V,During cross,Near the pedestrian crossing,Pedestrian,71,A passenger car,53,1,1,0,-2.4,0,0,81,0.3,NW,-1
+15,2013,1,0,0,2013/5/17,14:40,Sunny,139.2507194,37.96634444,1,0,Normal,Straight,0,0,V,Parking,Driver absent,Light truck,45,Property etc.,-1,1,1,0,17.8,0,0,0,3.6,NW,1
+16,2013,1,0,0,2013/5/22,4:35,Sunny,139.2816444,37.98999722,0,0,Normal,Curve,0,0,V,Manufactured articles,etc,Light passenger car,78,Property etc.,-1,1,0,0,13.3,0,0,0,2.2,S,0
+17,2013,1,1,0,2013/8/23,0:58,Sunny,139.3744861,38.00901389,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Light passenger car,22,A heavy-duty truck,40,1,0,0,20.2,0,0,0,0.6,SSW,-1
+18,2013,1,0,0,2013/10/25,17:56,Rain,139.2676667,37.8898,1,0,Near_Intersection,Straight,0,0,V2V,Rear-end collision,Ongoing,Light passenger car,25,Vehicle,72,1,0,1,16.9,2,0,0,3.5,SW,-1
+19,2013,1,0,0,2013/12/16,17:52,Rain,139.3102222,37.95693611,0,0,Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,A passenger car,62,Pedestrian,53,0,1,0,4.7,0,0,0,3.7,WNW,-1
+20,2013,1,0,0,2013/12/21,23:15,Rain,139.3138861,37.96381389,0,0,Near_Intersection,Straight,0,1,H2V,On the street,-1,-1,-1,Pedestrian,73,1,1,0,0.2,2.5,0,0,0.4,ENE,-1
+21,2013,1,0,0,2013/4/3,18:28,Cloudy,139.230075,37.912975,0,0,Intersection,Curve,3m-5.5m,0,H2V,During cross,A pedestrian crossing,A passenger car,48,Pedestrian,67,1,1,0,10.7,0,0,0,2.7,NW,0
+22,2013,1,0,0,2013/5/20,21:30,Cloudy,139.1809611,37.94706389,0,0,Near_Intersection,Straight,19.5m-,0,H2V,During cross,etc,Truck,47,Pedestrian,81,1,1,0,17.9,0,0,0,2.3,WSW,0
+23,2013,1,0,2,2013/9/14,12:13,Sunny,139.177375,37.9232,0,0,Intersection,Straight,5.5m-13m,0,V2V,Encounter,-1,A passenger car,39,Motorcycle over 751cc,33,0,0,0,32.2,0,0,0,1.6,NE,1
+24,2013,1,0,0,2013/12/4,22:30,Cloudy,139.1732389,37.93778333,1,0,Normal,Straight,19.5m-,0,V2V,Rear-end collision,Ongoing,Light passenger car,45,Medium truck,56,0,0,0,7.1,0,0,0,2.8,SW,0
+25,2013,1,0,0,2013/12/27,18:00,Cloudy,139.2906917,37.80655556,1,0,Normal,Straight,0,0,H2V,During cross,etc,Truck,47,Pedestrian,72,1,1,0,2.6,0,0,0,3,W,-1
+26,2013,1,0,0,2013/1/22,17:10,Rain,139.1561167,37.76417778,0,0,Normal,Curve,5.5m-13m,0,H2V,During cross,etc,A passenger car,22,Other quasi-pedestrians,81,1,1,0,1.9,0.5,0,0,3,SW,0
+27,2013,1,0,1,2013/8/4,19:20,Cloudy,139.2130694,37.71540556,0,0,Normal,Curve,0,0,V2V,Frontal collision,-1,Light passenger car,22,A passenger car,29,0,0,0,24.9,0,0,0,2,E,0
+28,2013,1,0,0,2013/4/14,18:50,Sunny,139.1160667,37.81360556,0,0,Normal,Straight,5.5m-13m,0,H2V,On the street,-1,Light passenger car,62,Pedestrian,54,0,1,0,15.5,0,0,0,2.2,SSW,0
+29,2013,1,0,0,2013/8/30,15:05,Cloudy,139.0771167,37.88181389,0,0,Normal,Straight,3m-5.5m,0,H2V,During cross,etc,Light truck,80,Pedestrian,79,1,1,0,26.4,0,0,0,3.3,SW,0
+30,2013,1,0,0,2013/12/19,12:30,Cloudy,139.0980583,37.89679722,0,0,Intersection,Straight,5.5m-13m,0,V2V,Encounter,-1,Vehicle,56,Light passenger car,41,0,0,1,9.4,0,0,0,9.3,SE,0
+31,2013,1,0,0,2013/10/2,1:35,Sunny,138.9938944,37.70052778,1,0,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,A heavy-duty truck,66,Vehicle,75,1,0,1,16.9,0,0,0,1.1,ESE,-1
+32,2013,1,0,0,2013/11/18,17:05,Rain,139.0590972,37.75342222,0,0,Normal,Straight,5.5m-13m,0,H2V,During cross,etc,Light truck,61,Pedestrian,86,1,1,0,8.4,2.5,0,0,3.2,SSW,0
+33,2013,1,0,0,2013/6/14,4:25,Cloudy,138.8720861,37.64343333,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Light passenger car,28,A heavy-duty truck,54,0,0,0,23.7,0,0,0,0.9,NE,-1
+34,2013,1,0,0,2013/7/14,18:00,Cloudy,138.8080056,37.65995278,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Vehicle,70,None,-1,1,0,1,26.2,0,0,0,2.7,SW,0
+35,2013,1,0,0,2013/9/28,14:48,Sunny,138.9046528,37.67200833,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light truck,87,Motorcycle over 751cc,52,1,0,0,25.2,0,0,0,6.1,ESE,1
+36,2013,1,0,0,2013/9/27,18:15,Cloudy,139.0452306,37.66044722,1,0,Intersection,Straight,0,1,H2V,During cross,Near the pedestrian crossing,Pedestrian,81,Light passenger car,62,1,1,0,17.3,0,0,0,2.8,NNE,0.4
+37,2013,1,1,0,2013/12/29,10:35,Snow,139.0707972,37.65833333,0,0,Normal,Curve,0,0,V,Manufactured articles,House and fence,A passenger car,75,Property etc.,-1,1,0,0,0.5,0.5,0,2,3.5,S,0.5
+38,2013,1,0,0,2013/1/21,20:38,Cloudy,138.9541583,37.61286389,0,0,Normal,Straight,0,0,H2V,On the back,-1,A passenger car,44,Pedestrian,78,1,1,0,1.3,0,0,77,0.7,SSW,-1
+39,2013,1,0,0,2013/3/19,2:50,Cloudy,138.9697556,37.63562778,1,0,Near_Intersection,Curve,0,1,V,Manufactured articles,etc,A passenger car,36,Property etc.,-1,0,0,0,9.8,0.5,0,0,4.8,SW,-1
+40,2013,1,1,4,2013/5/17,17:00,Sunny,138.99545,37.62858611,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light passenger car,19,Light passenger car,19,0,0,0,16.3,0,0,0,2.7,N,1
+41,2013,1,0,0,2013/5/25,20:45,Sunny,138.9908917,37.64218333,1,0,Near_Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,34,Pedestrian,66,1,1,0,19.2,0,0,0,3.1,SE,-1
+42,2013,2,1,0,2013/10/13,19:03,Sunny,139.0446972,37.56903611,0,0,Normal,Straight,0,0,V,Manufactured articles,Telegraph pole,Light truck,77,Property etc.,-1,1,0,0,10,0,0,0,0.4,SSE,-1
+43,2013,1,0,0,2013/10/25,22:45,Rain,138.9398056,37.62834722,1,0,Normal,Straight,0,0,H2V,On the street,-1,A passenger car,19,Pedestrian,68,1,1,0,16.2,2,0,0,1.8,N,-1
+44,2013,1,0,0,2013/11/6,5:08,Sunny,138.9342111,37.61609444,1,0,Near_Intersection,Straight,0,0,H2V,On the back,-1,A heavy-duty truck,57,Pedestrian,80,1,1,0,6.3,0,0,0,1.9,SW,-1
+45,2013,1,0,0,2013/3/14,19:03,Cloudy,138.9245917,37.52218333,0,0,Intersection,Straight,0,0,H2V,During cross,A pedestrian crossing,Light truck,53,Pedestrian,65,1,1,0,2.1,0,0,22,1,SW,-1
+46,2013,1,0,0,2013/8/13,15:45,Sunny,138.9558472,37.51784444,0,0,Near_Intersection,Straight,0,0,V2V,Overtaking,-1,Light passenger car,51,Scooter 50cc or less,41,0,0,0,30.6,0,0,0,3.5,NNW,1
+47,2013,1,0,0,2013/4/29,16:01,Sunny,138.7084139,37.41258056,1,0,Normal,Curve,0,0,H2V,Stopping on the road,-1,Light passenger car,69,Pedestrian,92,1,1,0,22.8,0,0,0,1.5,NW,1
+48,2013,1,0,0,2013/5/10,12:04,Cloudy,138.8937361,37.50360556,0,0,Near_Intersection,Curve,0,0,V2V,Frontal collision,-1,Light passenger car,23,A large passenger car,45,0,0,0,23.4,0,0,0,2.1,N,1
+49,2013,1,0,0,2013/5/29,17:37,Cloudy,138.8614611,37.44115833,1,0,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,22,Pedestrian,7,0,1,0,21.4,0,0,0,1.8,NNW,0
+50,2013,1,0,0,2013/5/30,19:06,Cloudy,138.8944333,37.50011111,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Vehicle,71,A passenger car,21,1,0,1,18,0,0,0,1.7,S,0
+51,2013,1,0,0,2013/8/18,18:58,Sunny,138.854675,37.46706944,0,0,Intersection,Straight,0,0,H2V,During cross,etc,A passenger car,28,Pedestrian,56,0,1,0,31,0,0,0,1.2,SSW,0
+52,2013,1,0,0,2013/9/16,14:00,Rain,138.8082639,37.45047778,0,0,Intersection,Straight,0,1,H2V,During cross,Near the pedestrian crossing,Truck,68,Pedestrian,63,1,1,0,22.2,4.5,0,0,1.1,WNW,0
+53,2013,1,0,0,2013/11/23,17:10,Cloudy,138.8052222,37.41753611,1,0,Intersection,Straight,0,0,H2V,During cross,etc,A passenger car,40,„Åù„ÅE‰ªñ„ÅEÊ∫ñPedestrian,81,1,1,0,11.6,0,0,0,1.5,SSW,-1
+54,2013,1,0,0,2013/11/29,16:49,Rain,138.9998944,37.47536944,0,0,Intersection,Straight,0,0,H2V,During cross,A pedestrian crossing,Light passenger car,66,Pedestrian,88,1,1,0,5.7,0,0,0,2.6,W,0
+55,2013,1,0,0,2013/12/6,21:37,Rain,138.8614667,37.44116667,1,0,Normal,Straight,0,0,H2V,During cross,etc,A passenger car,25,Pedestrian,59,0,1,0,7,0.5,0,0,1.5,W,-1
+56,2013,1,0,0,2013/1/16,18:20,Cloudy,138.7721278,37.47963056,0,0,Normal,Straight,0,0,H2V,In face-to-face way,-1,Truck,56,Pedestrian,57,0,1,0,1.2,0,0,67,1.1,SSW,-1
+57,2013,1,0,0,2013/7/28,10:36,Sunny,138.7621,37.63356389,1,0,Intersection,Straight,0,1,V2V,Turning right,Turn right,A passenger car,34,Scooter 51-125cc,63,0,0,0,27.8,0,0,0,2.7,WNW,0.2
+58,2013,1,0,0,2013/10/6,19:04,Sunny,138.7955889,37.31646667,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,25,Pedestrian,72,1,1,0,23.3,0,0,0,1.9,N,-1
+59,2013,1,0,0,2013/5/5,14:00,Sunny,139.1317556,37.34760278,0,0,Normal,Curve,0,0,V,etc,-1,Small-sized special motor vehicles for Farming,84,None,-1,1,0,0,17.4,0,0,31,1.1,N,1
+60,2013,1,0,1,2013/7/20,11:30,Sunny,138.9252139,37.29049722,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Light truck,81,None,-1,1,0,0,24.6,0,0,0,1.2,NNW,0
+61,2013,1,0,0,2013/10/12,19:00,Cloudy,138.9939028,37.29854722,1,0,Normal,Curve,0,0,V,Manufactured articles,Protection fence etc.,A passenger car,80,Property etc.,-1,1,0,0,13.3,0,0,0,1,NW,-1
+62,2013,1,0,1,2013/12/6,14:25,Cloudy,138.8970694,37.25680556,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,A passenger car,76,Medium truck,29,1,0,0,8.4,0,0,0,1.5,SW,0.1
+63,2013,1,0,1,2013/1/25,16:33,Cloudy,138.8949389,36.98622778,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,A passenger car,39,A large passenger car,42,1,0,0,-1.8,0,0,134,2.3,N,0
+64,2013,1,0,0,2013/1/30,18:20,Cloudy,138.8106111,36.93696667,0,0,Intersection,Straight,0,1,H2V,During cross,Near the pedestrian crossing,-1,-1,Pedestrian,68,1,1,0,-0.5,0.5,0,176,2.3,NW,0
+65,2013,1,0,0,2013/5/5,12:00,Sunny,138.9661972,37.17683611,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 50cc or less,76,Light passenger car,54,1,0,0,18.1,0,0,0,1.8,NNE,1
+66,2013,1,0,0,2013/5/18,20:14,Cloudy,138.9619222,37.15227778,0,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,Light passenger car,22,Pedestrian,58,0,1,0,18.9,0,0,0,1.1,W,-1
+67,2013,1,0,0,2013/10/12,13:17,Cloudy,138.8977556,37.109925,1,0,Intersection,Straight,0,1,V2V,Turning right,Turn right,A passenger car,67,Scooter 50cc or less,16,1,0,0,17.6,0,0,0,1.7,W,0
+68,2013,1,0,0,2013/11/10,3:30,Cloudy,138.9281417,37.18278056,1,0,Normal,Straight,0,0,H2V,On the back,-1,A heavy-duty truck,43,Pedestrian,18,0,1,0,7.9,0,0,0,0.4,NE,-1
+69,2013,1,0,0,2013/12/8,19:44,Cloudy,138.8573889,37.04084444,1,0,Normal,Straight,0,0,V2V,Rear-end collision,etc,Light truck,64,Medium truck,44,0,0,0,0.2,0,0,0,1.4,ESE,-1
+70,2013,1,0,0,2013/6/29,18:10,Sunny,138.7726556,37.14630833,0,0,Normal,Straight,0,0,H2V,Working on the street,-1,Light passenger car,57,Pedestrian,87,1,1,0,24,0,0,0,1.4,NW,1
+71,2013,1,0,0,2013/9/26,19:10,Cloudy,138.7521944,37.13431389,0,0,Intersection,Straight,0,0,H2V,During cross,etc,Light passenger car,41,Pedestrian,74,1,1,0,13,0,0,0,1.6,WSW,-1
+72,2013,1,0,0,2013/10/21,17:30,Cloudy,138.6703944,36.97960556,1,0,Normal,Straight,0,0,H2V,During cross,etc,Light truck,41,Pedestrian,83,1,1,0,16.4,0,0,0,0.7,NE,0
+73,2013,1,0,0,2013/10/22,17:20,Cloudy,138.7632167,37.15871111,0,0,Intersection,Straight,0,0,V2V,Rear-end collision,Ongoing,A passenger car,55,Vehicle,60,0,0,1,16.3,0,0,0,0.5,W,0
+74,2013,1,0,0,2013/6/6,10:00,Sunny,138.5884139,37.38575833,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 50cc or less,77,Medium truck,55,1,0,0,22.7,0,0,0,2.4,NNW,0.6
+75,2013,1,0,0,2013/7/31,13:37,Cloudy,138.599,37.348075,0,0,Near_Intersection,Straight,0,0,V2V,Turning right,Turn right,A passenger car,54,Motorcycle 251-400cc,37,0,0,0,28.4,0,0,0,2.6,NW,1
+76,2013,1,0,0,2013/2/9,1:10,Snow,138.2336639,37.04939167,0,0,Normal,Straight,0,0,V,Outside the road,Falling,A passenger car,36,None,-1,0,0,0,-0.3,0,0,83,3.3,NW,0
+77,2013,1,0,1,2013/2/22,19:41,Cloudy,138.2705944,36.98991389,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,A passenger car,69,Light passenger car,25,1,0,0,1.7,0,0,183,3.6,WSW,-1
+78,2013,1,0,0,2013/8/17,14:23,Sunny,138.2187917,36.98996944,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Light passenger car,83,Light Scooter 126-251cc,56,1,0,0,30.3,0,0,0,2.6,NNE,1
+79,2013,1,0,0,2013/6/19,3:30,Rain,137.8639417,36.88138611,1,0,Normal,Curve,0,0,V,Manufactured articles,etc,Medium truck,58,Property etc.,-1,0,0,0,19.6,7.5,0,0,2.1,SE,-1
+80,2013,1,0,0,2013/11/8,10:30,Cloudy,137.8942806,37.05140278,1,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,Light passenger car,66,Pedestrian,85,1,1,0,15.5,0,0,0,5.1,WNW,0.1
+81,2013,1,0,0,2013/1/12,17:25,Rain,138.3331722,38.0051,1,0,Near_Intersection,Curve,0,0,H2V,Working on the street,-1,Light passenger car,66,Pedestrian,78,1,1,0,4.9,3,0,0,7.2,W,0
+82,2013,1,0,0,2013/8/31,15:35,Rain,138.3942111,38.032725,0,0,Normal,Curve,0,0,V,etc,-1,Light truck,69,None,-1,1,0,0,25.8,4,0,0,5.4,W,0
+83,2013,1,0,0,2013/9/11,20:16,Cloudy,138.3265917,37.9992,1,0,Normal,Curve,0,0,V,Manufactured articles,House and fence,Scooter 50cc or less,16,Property etc.,-1,0,0,0,23.7,0,0,0,1.1,ENE,0
+84,2013,1,0,0,2013/10/3,18:05,Sunny,138.328075,37.85671944,0,0,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,A passenger car,55,Vehicle,82,1,0,1,17.3,0,0,0,2.4,NNE,0
+85,2013,1,0,0,2013/10/12,15:08,Cloudy,138.4431361,37.88641944,0,0,Normal,Curve,0,0,V,Manufactured articles,etc,Light truck,89,Property etc.,-1,1,0,0,18.7,0,0,0,13.5,NW,1
+86,2013,1,0,0,2013/6/27,17:30,Sunny,138.4200944,38.02851944,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 50cc or less,51,A passenger car,24,0,0,0,23.1,0,0,0,6.7,NNW,0.5
+87,2013,1,0,0,2013/8/18,22:56,Sunny,138.4389944,38.06598611,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Light passenger car,20,None,-1,0,0,0,26.8,0,0,0,1.2,SE,0
+88,2013,1,2,0,2013/9/24,15:11,Sunny,138.4183306,38.00785833,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light passenger car,70,Light passenger car,60,1,0,0,26.4,0,0,0,1.8,WNW,1
+89,2013,1,0,0,2013/5/15,20:00,Rain,138.4206833,37.12445833,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Light passenger car,86,None,-1,1,0,0,16.5,0,0,0,1,ENE,-1
+90,2013,1,0,0,2013/5/28,5:56,Sunny,138.2670472,37.19533611,0,0,Other,Othre,0,0,V,Outside the road,Falling,Light passenger car,66,None,-1,1,0,0,18.7,0,0,0,0.3,W,0.1
+91,2013,1,0,0,2013/6/2,11:00,Sunny,138.2274972,37.14960278,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,A passenger car,51,Vehicle,80,1,0,1,25.3,0,0,0,2.7,NE,0
+92,2013,1,0,0,2013/6/8,10:28,Sunny,138.234075,37.16874167,0,0,Intersection,Straight,0,0,H2V,During cross,A pedestrian crossing,Light passenger car,54,Pedestrian,69,1,1,0,21.7,0,0,0,1.6,NNW,0.3
+93,2013,1,0,0,2013/8/21,15:10,Sunny,138.4593333,37.27181389,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Light passenger car,73,None,-1,1,0,0,28.8,0,0,0,1.9,NW,0.3
+94,2013,1,0,0,2013/9/12,19:40,Cloudy,138.2710306,37.11375833,0,0,Normal,Straight,0,0,H2V,In face-to-face way,-1,Light passenger car,19,Other quasi-pedestrians,82,1,1,0,24.3,0,0,0,0.7,SSW,0
+95,2013,1,0,0,2013/9/21,6:53,Sunny,138.1865889,37.16671944,1,0,Normal,Straight,0,0,V2V,Turning right,Turn right,A heavy-duty truck,41,Motorcycle over 751cc,39,0,0,0,21.6,0,0,0,5,S,0.1
+96,2013,1,0,0,2013/11/9,9:45,Sunny,138.4178778,37.30544444,1,0,Normal,Straight,0,0,H2V,Working on the street,-1,Medium truck,54,Pedestrian,61,0,1,0,10.4,0,0,0,1.6,E,0.4
+97,2013,1,0,0,2013/12/5,5:30,Cloudy,138.0953972,37.14816667,0,0,Normal,Straight,0,0,V,etc,-1,Light truck,69,None,-1,1,0,0,6.3,0,0,0,1.6,SE,-1
+98,2013,1,0,0,2013/12/17,22:05,Cloudy,138.2529083,37.17328056,0,0,Normal,Straight,0,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,58,Pedestrian,43,0,1,0,3.5,0,0,1,1.7,SSE,0
+99,2013,1,0,0,2013/12/23,5:53,Rain,138.2907639,37.17140278,1,0,Near_Intersection,Straight,0,0,V2V,Rear-end collision,Ongoing,Medium truck,44,Vehicle,63,0,0,1,2.2,0.5,0,0,2.9,SW,0
+100,2013,1,0,0,2013/12/30,20:08,Cloudy,138.2461139,37.12325278,0,0,Near_Intersection,Straight,0,1,H2V,During cross,Near the pedestrian crossing,Light passenger car,67,Pedestrian,62,1,1,0,2.6,0,0,8,1.5,WSW,0
+101,2013,1,0,2,2013/5/21,5:30,Sunny,138.9403528,37.70463889,0,1,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,A heavy-duty truck,58,A heavy-duty truck,42,0,0,0,15.3,0,0,0,1.8,S,0
+102,2013,1,0,0,2013/7/17,16:27,Cloudy,138.2258,37.08582778,0,1,Normal,Straight,0,0,V,Manufactured articles,Separation zone and safety island,Motorcycle 251-400cc,72,Property etc.,-1,1,0,0,27.4,0,0,0,2.7,ESE,0
+103,2013,1,0,0,2013/7/18,3:26,Rain,138.8984444,37.59726944,0,1,Normal,Straight,0,0,V2V,etc,-1,Medium truck,35,A passenger car,46,0,0,0,21.9,0,0,0,2.4,SW,-1
+104,2013,1,2,2,2013/8/13,13:23,Sunny,139.3556556,38.01874444,0,1,Normal,Straight,0,0,V2V,Frontal collision,-1,A passenger car,65,Medium truck,61,1,0,0,30.2,0,0,0,2.5,W,1
+105,2013,1,0,0,2013/9/28,5:05,Sunny,138.367375,37.256325,0,1,Normal,Straight,0,0,V,Parking,Driver absent,A heavy-duty truck,47,Property etc.,-1,0,1,0,9.4,0,0,0,0.7,S,-1
+106,2013,1,1,0,2013/10/25,13:27,Rain,139.2158306,37.93075278,0,1,Normal,Straight,19.5m-,0,V,Manufactured articles,Protection fence etc.,Truck,48,Property etc.,-1,1,0,0,17.7,0,0,0,2.1,N,0
+107,2014,1,0,0,2014/4/10,22:46,Sunny,139.0495056,37.92560278,1,0,Intersection,Straight,3m-5.5m,1,H2V,On the street,-1,A passenger car,45,Pedestrian,71,1,1,0,7.1,0,0,0,2.8,W,0
+108,2014,1,0,0,2014/4/19,15:58,Sunny,139.0220139,37.91326667,1,0,Normal,Straight,19.5m-,0,V,Parking,Driver absent,Scooter 50cc or less,89,Property etc.,-1,1,0,0,10.2,0,0,0,4.7,NNW,0.5
+109,2014,1,1,0,2014/5/26,0:45,Cloudy,139.1009722,37.94668333,1,0,Near_Intersection,Straight,3m-5.5m,0,V2V,Rear-end collision,Ongoing,Scooter 50cc or less,41,Vehicle,71,1,0,1,18.9,0,0,0,2.2,E,0
+110,2014,1,0,0,2014/5/28,4:00,Sunny,139.1108222,37.94033611,0,0,Normal,Straight,5.5m-13m,0,H2V,On the back,-1,Light passenger car,33,Pedestrian,78,1,1,0,16.4,0,0,0,2.1,S,0
+111,2014,1,0,0,2014/7/5,10:47,Sunny,139.0678139,37.92041111,0,0,Intersection,Straight,19.5m-,1,V2V,Turning right,Turn right,A passenger car,80,Scooter 51-125cc,33,1,0,0,28.6,0,0,0,5.6,SE,1
+112,2014,1,0,0,2014/9/10,10:20,Sunny,139.0506278,37.91094444,0,0,Intersection,Straight,5.5m-13m,0,H2V,During cross,etc,Truck,35,Pedestrian,89,1,1,0,25.4,0,0,0,2.2,S,0.9
+113,2014,1,0,0,2014/11/9,14:20,Cloudy,139.0715917,37.93966667,0,0,Intersection,Straight,5.5m-13m,1,H2V,During cross,A pedestrian crossing,A passenger car,66,Pedestrian,73,1,1,0,15.7,0,0,0,3.3,SSE,0
+114,2014,1,0,0,2014/1/12,1:44,Snow,138.9315861,37.85396667,0,0,Normal,Straight,5.5m-13m,0,H2V,During cross,etc,Light passenger car,45,Pedestrian,75,1,1,0,0.1,0,1,3,1.5,S,0
+115,2014,1,0,0,2014/2/3,7:00,Cloudy,138.9376028,37.85676944,0,0,Intersection,Straight,5.5m-13m,1,V2V,Turning left,-1,A heavy-duty truck,49,Vehicle,63,0,0,1,8.3,0,0,0,1.3,S,0
+116,2014,1,0,0,2014/5/5,0:00,Cloudy,138.9804389,37.86647222,0,0,Intersection,Straight,5.5m-13m,0,V,Outside the road,Falling,Vehicle,67,None,-1,1,0,1,15.3,0,0,0,1.9,SSE,0
+117,2014,1,0,0,2014/6/6,23:14,Cloudy,138.9518722,37.86991389,0,0,Near_Intersection,Straight,5.5m-13m,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,29,Pedestrian,70,1,1,0,20.5,0,0,0,10.1,SE,0
+118,2014,1,0,0,2014/10/15,21:02,Sunny,138.9625472,37.87548611,0,0,Normal,Straight,5.5m-13m,0,H2V,During cross,etc,A passenger car,61,Pedestrian,77,1,1,0,15.4,0,0,0,5,SE,0
+119,2014,1,0,0,2014/1/18,0:30,Cloudy,139.4833444,38.22716944,0,0,Intersection,Straight,0,0,H2V,On the street,-1,Light passenger car,23,Pedestrian,56,0,1,0,-1.6,0,0,40,0.6,NNW,-1
+120,2014,1,0,0,2014/2/12,19:30,Cloudy,139.4689111,38.20020556,0,0,Near_Intersection,Curve,0,0,H2V,On the street,-1,A passenger car,73,Pedestrian,86,1,1,0,0.6,0,0,44,1.3,WSW,-1
+121,2014,1,0,1,2014/5/10,23:50,Sunny,139.6600722,38.07848333,1,0,Normal,Straight,0,0,V,Manufactured articles,Pier and bridge,A passenger car,32,Property etc.,-1,0,0,0,6.9,0,0,0,0.7,ESE,-1
+122,2014,1,0,0,2014/6/18,17:40,Cloudy,139.5285278,38.10008889,1,0,Normal,Straight,0,0,V2V,At the time of passing each other,-1,A passenger car,77,A passenger car,62,1,0,0,22.4,0,0,0,1.7,NNW,0
+123,2014,2,0,0,2014/7/21,15:22,Sunny,139.5508111,38.54385556,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,A passenger car,31,A heavy-duty truck,41,0,0,0,28.3,0,0,0,2.8,WNW,1
+124,2014,1,0,0,2014/10/24,17:58,Sunny,139.4513694,38.11756389,1,0,Intersection,Straight,0,0,H2V,During cross,Near the pedestrian overpass,Truck,47,Pedestrian,62,0,1,0,12.2,0,0,0,1.4,ESE,-1
+125,2014,1,0,0,2014/10/31,6:50,Sunny,139.4246556,38.12259722,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light truck,68,A passenger car,43,1,0,0,6.2,0,0,0,1.1,NW,0.3
+126,2014,1,0,0,2014/6/6,16:09,Rain,139.3999472,38.06290278,0,0,Near_Intersection,Straight,0,1,V2V,etc,-1,A heavy-duty truck,45,Vehicle,8,0,0,1,23.1,0,0,0,5.8,ESE,0.2
+127,2014,1,0,0,2014/3/26,13:55,Cloudy,139.3680583,38.02195,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light truck,80,Light passenger car,77,1,0,0,14.7,0,0,0,3,SE,0
+128,2014,1,0,0,2014/6/10,19:35,Sunny,139.3146583,38.02459167,0,0,Intersection,Straight,0,1,V2V,Encounter,-1,A passenger car,42,Scooter 50cc or less,45,0,0,0,25.2,0,0,0,4.9,ESE,0
+129,2014,1,0,0,2014/7/8,8:35,Cloudy,139.349725,38.00505,0,0,Normal,Straight,0,0,V2V,Frontal collision,-1,A passenger car,22,Light truck,81,1,0,0,22.5,0,0,0,0.7,NNE,0.4
+130,2014,1,1,0,2014/8/28,20:25,Sunny,139.2857361,37.95715278,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,A passenger car,19,Motorcycle over 751cc,20,0,0,0,20.8,0,0,0,2.6,SSW,-1
+131,2014,1,0,0,2014/9/24,4:50,Cloudy,139.366075,37.96966111,0,0,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,A passenger car,71,Vehicle,77,1,0,1,12.9,0,0,0,0,0,-1
+132,2014,1,0,0,2014/2/26,16:31,Sunny,139.1417806,37.938125,1,0,Normal,Straight,5.5m-13m,0,V2V,At the time of passing each other,-1,Scooter 50cc or less,80,Medium truck,52,1,0,0,7.7,0,0,0,2.3,NNE,0.7
+133,2014,1,0,0,2014/7/9,23:54,Rain,139.1546611,37.93621389,1,0,Normal,Straight,3m-5.5m,0,V,Manufactured articles,Separation zone and safety island,A passenger car,41,Property etc.,-1,0,0,0,23.8,0,0,0,2.2,ENE,0
+134,2014,1,0,0,2014/10/30,14:35,Sunny,139.2189472,37.9137,0,0,Intersection,Straight,5.5m-13m,0,H2V,During cross,etc,A passenger car,59,Pedestrian,92,1,1,0,18,0,0,0,2.7,N,1
+135,2014,1,0,0,2014/1/5,17:25,Cloudy,139.23835,37.76750278,1,0,Intersection,Straight,5.5m-13m,0,H2V,During cross,A pedestrian crossing,Light passenger car,40,Pedestrian,75,1,1,0,0.8,0,0,0,2.4,SSW,0
+136,2014,1,0,0,2014/10/23,16:35,Sunny,139.2222306,37.83552778,0,0,Normal,Straight,3m-5.5m,0,H2V,On the back,-1,Light passenger car,20,Other quasi-pedestrians,85,1,1,0,13.8,0,0,0,2.1,NE,0.3
+137,2014,1,0,0,2014/10/26,9:10,Sunny,139.4776167,37.65820278,1,0,Normal,Straight,0,0,V2V,Turning right,Turn right,Light passenger car,69,Motorcycle over 751cc,52,1,0,0,9.4,0,0,0,0.9,S,0.1
+138,2014,1,0,0,2014/5/30,10:43,Sunny,139.1765194,37.73468333,0,0,Normal,Straight,0,0,V2V,At the time of passing each other,-1,Vehicle,83,A heavy-duty truck,62,1,0,1,27.7,0,0,0,0.6,SSE,1
+139,2014,1,0,0,2014/3/14,5:41,Cloudy,139.0073472,37.75385,1,0,Normal,Curve,5.5m-13m,0,V2V,Frontal collision,-1,Light passenger car,72,Medium truck,49,1,0,0,3.9,0.5,0,0,4.7,NNW,0
+140,2014,1,0,0,2014/10/18,17:35,Sunny,139.0421139,37.73903889,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,69,Pedestrian,77,1,1,0,12.8,0,0,0,2.8,S,0
+141,2014,1,0,0,2014/11/7,8:24,Sunny,139.0262417,37.75407778,0,0,Near_Intersection,Straight,5.5m-13m,0,V2V,Overtaking,-1,A passenger car,46,Bicycle with driving aid,88,1,0,1,11.9,0,0,0,5.3,NNW,0
+142,2014,1,0,0,2014/4/19,9:00,Sunny,138.8948694,37.76377778,0,0,Intersection,Straight,5.5m-13m,1,H2V,During cross,A pedestrian crossing,Pedestrian,66,Light passenger car,28,1,1,0,10.4,0,0,0,3.1,NNW,1
+143,2014,2,2,0,2014/7/20,18:20,Sunny,138.9773361,37.79672222,0,0,Intersection,Straight,5.5m-13m,0,V2V,Encounter,-1,A passenger car,71,A passenger car,49,1,0,0,26.2,0,0,0,1.6,NE,1
+144,2014,1,0,0,2014/9/29,20:10,Cloudy,138.9672528,37.70417778,0,0,Intersection,Straight,0,0,V2V,Turning right,Turn right,A passenger car,61,Light Scooter 126-251cc,20,0,0,0,17.7,0,0,0,1.5,SSE,-1
+145,2014,1,0,0,2014/3/5,12:01,Rain,138.8503056,37.62603889,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Vehicle,63,Light passenger car,28,0,0,1,4.2,0.5,0,0,2,S,0
+146,2014,1,0,0,2014/4/12,2:25,Cloudy,138.8227472,37.64443333,0,0,Normal,Straight,0,0,H2V,On the street,-1,Light truck,51,Pedestrian,20,0,1,0,6,0,0,0,2,SSW,-1
+147,2014,1,0,0,2014/10/28,17:26,Rain,138.8521639,37.62516667,1,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 50cc or less,75,A heavy-duty truck,39,1,0,0,12.4,0,0,0,5.1,W,0
+148,2014,1,0,0,2014/12/13,17:20,Snow,138.8449167,37.63016667,0,0,Near_Intersection,Straight,0,0,H2V,On the back,-1,Light passenger car,19,Pedestrian,78,1,1,0,0.5,0.5,0,27,0.6,NNW,0
+149,2014,1,0,0,2014/12/21,17:52,Snow,138.9462722,37.66545,0,0,Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,86,Pedestrian,83,1,1,0,-0.1,1.5,0,0,1.4,NNW,-1
+150,2014,1,0,0,2014/5/12,8:35,Sunny,139.0485417,37.66335556,1,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,Light truck,81,Pedestrian,80,1,1,0,21.8,0,0,0,5.4,ESE,1
+151,2014,1,0,0,2014/5/11,14:40,Sunny,138.9675056,37.67764722,1,0,Normal,Straight,0,1,V,Manufactured articles,Telegraph pole,Scooter 50cc or less,43,Property etc.,-1,0,0,0,23.1,0,0,0,3.6,NNW,1
+152,2014,1,0,0,2014/5/28,16:00,Sunny,138.9473611,37.64910833,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,A passenger car,38,Light truck,69,1,0,0,29.6,0,0,0,3.8,NNW,1
+153,2014,1,0,0,2014/8/12,9:00,Cloudy,138.9930333,37.65026944,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light truck,81,Pedestrian,79,1,1,0,24,0,0,0,3.6,ESE,0
+154,2014,1,0,0,2014/8/23,9:20,Sunny,138.9774222,37.63231944,1,0,Intersection,Straight,0,0,H2V,During cross,etc,A passenger car,75,Pedestrian,81,1,1,0,25.3,0,0,0,3.6,S,0.7
+155,2014,1,1,0,2014/4/1,16:20,Sunny,138.8767806,37.52575556,1,0,Normal,Straight,0,0,V,Manufactured articles,A traffic sign,Motorcycle 251-400cc,18,Property etc.,-1,0,0,0,14.6,0,0,0,2.7,NNE,1
+156,2014,1,0,0,2014/8/27,21:03,Rain,138.8936861,37.56227222,1,0,Normal,Straight,0,0,H2V,On the back,-1,Light passenger car,28,Pedestrian,64,0,1,0,21.1,0,0,0,1.7,SSW,-1
+157,2014,1,0,2,2014/11/13,10:00,Rain,138.8913056,37.54146944,0,0,Intersection,Straight,0,1,V2V,Encounter,-1,Light truck,76,Light passenger car,42,1,0,0,8.1,3.5,0,0,4.7,WSW,0
+158,2014,1,0,0,2014/12/7,18:13,Snow,138.8384278,37.57530278,1,0,Normal,Straight,0,0,H2V,On the back,-1,A passenger car,58,Pedestrian,65,1,1,0,0.7,0.5,0,29,1.6,S,-1
+159,2014,1,0,0,2014/4/3,16:12,Cloudy,138.9673,37.48886389,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light truck,47,Pedestrian,88,1,1,0,19.5,0,0,0,2.6,S,0
+160,2014,1,0,0,2014/4/30,14:30,Cloudy,138.9990639,37.474425,0,0,Near_Intersection,Straight,0,0,H2V,In face-to-face way,-1,Light passenger car,79,Pedestrian,70,1,1,0,18.9,0,0,0,4.2,ESE,0.1
+161,2014,1,0,0,2014/5/11,17:00,Sunny,139.0078889,37.46837222,0,0,Near_Intersection,Straight,0,0,V,Manufactured articles,House and fence,Light passenger car,89,Property etc.,-1,1,0,0,22,0,0,0,2.5,NW,1
+162,2014,1,0,0,2014/5/25,22:51,Sunny,138.8418944,37.46303889,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Vehicle,62,Light passenger car,25,0,0,1,18.8,0,0,0,1,SSW,-1
+163,2014,1,0,0,2014/7/30,20:11,Sunny,138.7482556,37.38418889,1,0,Normal,Straight,0,0,H2V,During cross,etc,A passenger car,28,Pedestrian,86,1,1,0,29.5,0,0,0,1.1,NNW,-1
+164,2014,1,0,2,2014/11/30,14:30,Sunny,138.8572306,37.48005833,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light passenger car,50,A passenger car,38,1,0,0,16.1,0,0,0,2.1,ENE,0.6
+165,2014,1,0,0,2014/12/12,4:40,Rain,138.7324889,37.35665833,1,0,Normal,Straight,0,0,H2V,During cross,etc,A heavy-duty truck,48,Pedestrian,77,1,1,0,3.2,0,0,3,1.5,SSE,-1
+166,2014,1,0,0,2014/12/21,18:22,Snow,138.8342889,37.40796667,0,0,Normal,Straight,0,0,V2V,Encounter,-1,Small-sized special motor vehicles etc.,26,Truck,80,1,0,0,0.9,0.5,0,54,0,0,-1
+167,2014,1,0,0,2014/4/7,8:35,Sunny,138.7517972,37.59934722,0,0,Intersection,Straight,0,0,V,Outside the road,Falling,Scooter 50cc or less,78,None,-1,1,0,0,9.1,0,0,0,5.8,WSW,0.5
+168,2014,1,0,1,2014/8/26,13:15,Cloudy,138.7862583,37.60570556,0,0,Normal,Curve,0,0,V,Manufactured articles,Telegraph pole,Truck,31,Property etc.,-1,0,0,0,22.3,0.5,0,0,1.1,NE,0
+169,2014,1,0,0,2014/7/15,2:45,Cloudy,138.8179361,37.32618889,1,0,Normal,Straight,0,0,V,Manufactured articles,etc,A heavy-duty truck,54,Property etc.,-1,0,0,0,22.2,0,0,0,0.1,0,-1
+170,2014,1,0,0,2014/12/1,16:30,Rain,138.795875,37.31471667,0,0,Intersection,Straight,0,0,H2V,During cross,A pedestrian crossing,Light passenger car,82,Pedestrian,67,1,1,0,13.7,1.5,0,0,1.8,WSW,0
+171,2014,1,0,0,2014/2/11,14:25,Cloudy,138.9490194,37.19334722,0,0,Near_Intersection,Straight,0,0,V2V,Rear-end collision,Ongoing,Light truck,64,Bicycle with driving aid,83,1,0,1,1.1,0,0,127,1,E,0.1
+172,2014,1,0,0,2014/5/24,22:10,Cloudy,138.9414194,37.23711111,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,41,Pedestrian,87,1,1,0,16.2,0,0,0,1.4,ENE,-1
+173,2014,1,0,0,2014/5/25,10:40,Sunny,139.028,37.33353333,1,0,Normal,Curve,0,0,V,Manufactured articles,Protection fence etc.,Motorcycle over 751cc,75,Property etc.,-1,1,0,0,22.6,0,0,0,1.5,NNE,0.1
+174,2014,1,0,0,2014/8/21,15:34,Cloudy,138.9935444,37.22775278,1,0,Normal,Straight,0,0,H2V,During cross,etc,Truck,37,Pedestrian,57,0,1,0,30.2,0,0,0,2.5,WNW,0
+175,2014,1,0,1,2014/12/10,15:15,Cloudy,138.9297889,37.25010556,0,0,Normal,Straight,0,0,V,Manufactured articles,Protection fence etc.,A passenger car,77,Property etc.,-1,1,0,0,4.9,0,0,24,0.2,0,0.4
+176,2014,1,0,0,2014/4/2,13:32,Sunny,138.8051139,36.94675,1,0,Intersection,Straight,0,0,V2V,Encounter,-1,A passenger car,73,Light truck,86,1,0,0,15.2,0,0,59,4.3,SE,1
+177,2014,1,0,0,2014/4/28,10:15,Sunny,138.8498722,37.05033333,0,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,A passenger car,63,Pedestrian,89,1,1,0,17.5,0,0,0,2.3,WNW,0.4
+178,2014,1,0,0,2014/6/15,21:29,Cloudy,138.8740111,37.06109167,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,A passenger car,24,A heavy-duty truck,54,0,0,0,18.1,0,0,0,1.2,ESE,-1
+179,2014,1,0,0,2014/12/8,22:34,Sunny,138.8078861,36.94423611,1,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,A heavy-duty truck,67,Pedestrian,71,1,1,0,-1,0,0,44,2,SSE,-1
+180,2014,1,0,0,2014/3/31,18:39,Sunny,138.6570444,37.02081667,1,0,Normal,Straight,0,0,H2V,During cross,etc,A passenger car,47,Pedestrian,83,1,1,0,5.5,0,0,155,3.9,WNW,0
+181,2014,1,0,0,2014/9/9,9:40,Sunny,138.7761944,37.10366111,1,0,Normal,Curve,0,0,H2V,During cross,etc,Light truck,48,Electric Wheelchair,92,1,1,0,22.5,0,0,0,3.9,SSE,0.8
+182,2014,1,0,0,2014/9/18,16:30,Sunny,138.7287444,37.14404444,0,0,Near_Intersection,Straight,0,0,V,Outside the road,Falling,Small-sized special motor vehicles etc.,78,None,-1,1,0,0,19.7,0,0,0,1.5,WNW,0.8
+183,2014,1,0,0,2014/1/13,20:43,Snow,138.5687028,37.37069167,0,0,Normal,Straight,0,0,H2V,On the street,-1,Light passenger car,57,Pedestrian,72,1,1,0,-0.2,0.5,0,7,6.4,NW,-1
+184,2014,1,0,0,2014/2/5,13:20,Snow,138.6515722,37.25476667,1,0,Normal,Straight,0,0,V,Outside the road,Falling,A passenger car,55,None,-1,0,0,0,-3,0,0,129,3.5,NW,0.2
+185,2014,1,0,0,2014/6/5,7:15,Rain,138.6430583,37.23483611,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,Light truck,79,A heavy-duty truck,46,1,0,0,17.2,0,0,0,2.3,SW,0
+186,2014,1,0,0,2014/9/22,17:53,Sunny,138.6296806,37.33440556,1,0,Normal,Straight,0,0,H2V,In face-to-face way,-1,A passenger car,39,Pedestrian,67,1,1,0,16.8,0,0,0,1.7,S,0.5
+187,2014,1,0,2,2014/9/22,14:54,Sunny,138.4912056,37.34923333,1,0,Near_Intersection,Straight,0,1,V2V,Rear-end collision,etc,Light passenger car,57,A passenger car,54,0,0,0,22.4,0,0,0,3,NNW,1
+188,2014,1,0,0,2014/12/20,18:18,Rain,138.5455444,37.35795833,1,0,Intersection,Straight,0,1,H2V,During cross,etc,Pedestrian,50,A passenger car,29,0,1,0,2.4,0.5,0,15,0.8,SE,-1
+189,2014,1,0,0,2014/4/2,11:25,Sunny,138.276325,37.03344722,0,0,Near_Intersection,Straight,0,0,V,Outside the road,Falling,Small-sized special motor vehicles for Farming,87,None,-1,1,0,0,17.6,0,0,0,3.5,N,1
+190,2014,1,0,0,2014/11/2,17:10,Rain,138.2593083,37.02023056,1,0,Normal,Straight,0,0,H2V,During cross,etc,Light truck,68,Pedestrian,89,1,1,0,17.9,7,0,0,5.5,W,0
+191,2014,1,2,0,2014/11/6,15:19,Cloudy,138.2193278,36.94667778,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Light passenger car,76,A passenger car,65,1,0,0,15.4,0,0,0,2.1,NE,0.3
+192,2014,1,0,0,2014/1/21,2:45,Rain,137.8114917,37.02567222,0,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,A passenger car,59,Pedestrian,81,1,1,0,0.3,2,0,48,1.7,SE,-1
+193,2014,1,1,1,2014/3/4,10:55,Sunny,137.8836139,36.96217778,0,0,Normal,Curve,0,0,V2V,Frontal collision,-1,Light passenger car,58,A passenger car,58,0,0,0,5.1,0,0,13,1.8,WNW,1
+194,2014,1,0,0,2014/5/15,17:13,Rain,138.278075,37.8313,1,0,Normal,Straight,0,0,V,Manufactured articles,A traffic sign,A passenger car,64,Property etc.,-1,0,0,0,14.5,1,0,0,8.7,NW,0
+195,2014,1,0,0,2014/5/28,1:00,Cloudy,138.2803333,37.81718056,1,0,Near_Intersection,Straight,0,0,V,Manufactured articles,Telegraph pole,Vehicle,72,Property etc.,-1,1,0,1,18.9,0,0,0,4.6,ESE,0
+196,2014,1,0,0,2014/11/5,18:27,Sunny,138.3015306,37.87035556,1,0,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,36,Pedestrian,89,1,1,0,12.2,0,0,0,2.6,E,0
+197,2014,1,0,1,2014/11/25,15:20,Cloudy,138.2893194,37.89905556,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,Light truck,58,Light truck,88,1,0,0,10.8,0,0,0,1.7,ENE,0
+198,2014,1,0,0,2014/2/22,20:45,Cloudy,138.2584889,37.14603333,0,0,Near_Intersection,Straight,0,1,H2V,During cross,etc,A passenger car,28,Pedestrian,66,1,1,0,3,0,0,55,1.6,NW,0
+199,2014,1,0,0,2014/8/14,17:00,Sunny,138.3768083,37.04179167,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Scooter 50cc or less,77,None,-1,1,0,0,28.9,0,0,0,1.5,E,1
+200,2014,1,0,0,2014/10/22,16:05,Rain,138.33345,37.12553333,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 50cc or less,76,Truck,21,1,0,0,0,0,0,0,0,0,-1
+201,2014,1,0,0,2014/12/29,23:00,Rain,138.2950056,37.17859722,0,0,Normal,Straight,0,0,H2V,On the street,-1,-1,-1,Pedestrian,57,0,1,0,2.4,0.5,0,58,1.4,S,0
+202,2014,1,0,0,2014/3/15,14:15,Rain,139.4282333,37.67915,0,1,Normal,Straight,0,0,V,Manufactured articles,Protection fence etc.,A heavy-duty truck,43,Property etc.,-1,0,0,0,1.1,0.5,0,53,0.9,NNW,0
+203,2014,1,0,5,2014/3/21,14:52,Snow,138.816625,36.93859444,0,1,Normal,Straight,0,0,V,Manufactured articles,Separation zone and safety island,A passenger car,76,Property etc.,-1,1,1,0,0.4,4,3,154,3.3,NNW,0
+204,2014,1,0,1,2014/5/5,11:45,Rain,138.2157889,37.14029722,0,1,Normal,Curve,0,0,V2V,etc,-1,A heavy-duty truck,57,Motorcycle over 751cc,45,0,0,0,17.5,0,0,0,2.5,NNW,0
+205,2014,1,0,1,2014/6/6,22:31,Cloudy,138.3818111,37.26368889,0,1,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,Truck,41,A heavy-duty truck,52,0,0,0,19.1,0,0,0,0.7,ENE,-1
+206,2014,1,1,0,2014/7/14,23:22,Cloudy,139.085775,37.82242778,0,1,Normal,Straight,5.5m-13m,0,V2V,Frontal collision,-1,A passenger car,28,Medium truck,33,0,0,0,20.8,0,0,0,1.3,SSE,-1
+207,2014,1,1,2,2014/8/19,11:33,Sunny,138.8759722,37.26381667,0,1,Normal,Straight,0,0,V2V,Rear-end collision,etc,A passenger car,55,Truck,33,1,0,0,32,0,0,0,3.7,NW,1
+208,2015,1,0,0,2015/9/24,3:47,Cloudy,139.0191778,37.90501667,0,0,Normal,Straight,3m-5.5m,0,H2V,On the street,-1,Light passenger car,55,Pedestrian,45,0,1,0,20,0,0,0,3.4,SSE,0
+209,2015,1,0,0,2015/4/22,20:08,Sunny,139.0489222,37.909875,0,0,Normal,Straight,5.5m-13m,0,H2V,During cross,etc,Light passenger car,19,Pedestrian,88,1,1,0,13.6,0,0,0,1.2,SSW,0
+210,2015,1,0,0,2015/5/23,16:35,Sunny,139.0598194,37.89611667,0,0,Intersection,Straight,3m-5.5m,0,V2V,Encounter,-1,A passenger car,31,Scooter 51-125cc,44,0,0,0,23.8,0,0,0,3.5,WSW,1
+211,2015,1,0,0,2015/7/13,19:31,Sunny,139.1268889,37.93436389,0,0,Intersection,Straight,19.5m-,1,V2V,Turning right,Turn right,Light passenger car,37,Light Scooter 126-251cc,48,0,0,0,31.9,0,0,0,0.8,E,0
+212,2015,1,0,0,2015/7/15,16:12,Sunny,139.0650667,37.92570556,1,0,Intersection,Straight,19.5m-,1,V2V,Turning left,-1,A heavy-duty truck,57,Vehicle,17,0,0,1,28.4,0,0,0,3.7,N,1
+213,2015,1,0,0,2015/7/30,6:05,Sunny,139.036775,37.89,0,0,Normal,Straight,3m-5.5m,0,H2V,Stopping on the road,-1,A passenger car,73,Pedestrian,83,1,1,0,24.6,0,0,0,1.1,S,0
+214,2015,1,0,0,2015/10/15,6:22,Sunny,139.1355139,37.91926111,0,0,Near_Intersection,Straight,3m-5.5m,0,H2V,In face-to-face way,-1,Light passenger car,19,Pedestrian,54,0,1,0,8.4,0,0,0,2.1,SSW,0
+215,2015,1,0,0,2015/8/17,11:06,Rain,139.5753,38.06709444,0,0,Normal,Straight,0,0,H2V,etc,-1,Medium truck,60,Pedestrian,85,1,1,0,23.5,1,0,0,4.2,SE,0
+216,2015,1,0,0,2015/8/30,16:25,Cloudy,139.5141833,38.48988889,1,0,Normal,Straight,0,0,H2V,During cross,etc,A passenger car,43,Pedestrian,89,1,1,0,21.8,0,0,0,2.5,SE,0
+217,2015,1,0,0,2015/10/12,5:00,Cloudy,139.552675,38.36264167,1,0,Normal,Straight,0,0,V,Outside the road,Falling,A passenger car,82,None,-1,1,0,0,11.4,0,0,0,0.9,SSE,-1
+218,2015,1,0,0,2015/10/12,17:56,Rain,139.3946361,38.05642222,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,37,Pedestrian,72,1,1,0,14,2,0,0,1.5,ESE,0
+219,2015,1,1,0,2015/2/22,11:36,Sunny,139.384,37.92145833,0,0,Normal,Straight,0,0,V,Manufactured articles,Telegraph pole,Light truck,75,Property etc.,-1,1,0,0,10.1,0,0,77,5.2,SE,0.6
+220,2015,1,0,0,2015/3/25,14:10,Cloudy,139.3138083,37.98302778,0,0,Intersection,Straight,0,0,V,Manufactured articles,Protection fence etc.,Light truck,73,Property etc.,-1,1,0,0,6.5,0,0,0,5.5,NW,0.6
+221,2015,1,0,0,2015/7/10,8:40,Sunny,139.2968611,37.98515833,0,0,Near_Intersection,Straight,0,0,V,Outside the road,Falling,Small-sized special motor vehicles for Farming,66,None,-1,1,0,0,24.7,0,0,0,1.3,WNW,0.9
+222,2015,1,0,0,2015/10/16,15:30,Sunny,139.3097778,37.94536944,0,0,Intersection,Straight,0,1,V2V,Encounter,-1,Scooter 50cc or less,59,Light truck,52,0,0,0,20.3,0,0,0,3.3,N,1
+223,2015,1,0,0,2015/4/10,10:43,Sunny,139.2169333,37.919975,0,0,Intersection,Straight,3m-5.5m,1,V2V,Turning right,etc,A passenger car,84,Vehicle,72,1,0,1,13.9,0,0,0,4.6,ESE,0
+224,2015,1,0,0,2015/5/19,3:45,Rain,139.19135,37.9455,1,0,Normal,Straight,19.5m-,0,H2V,On the back,-1,Pedestrian,69,A heavy-duty truck,57,1,1,0,16.2,0.5,0,0,2.3,SSE,0
+225,2015,1,0,0,2015/9/3,13:10,Cloudy,139.2189472,37.91770278,0,0,Normal,Straight,5.5m-13m,0,V2V,Overtaking,-1,Light passenger car,25,Vehicle,78,1,0,1,28.2,0,0,0,1.8,SW,0
+226,2015,1,0,0,2015/11/9,1:30,Rain,139.2209417,37.95595833,1,0,Normal,Straight,3m-5.5m,0,V2V,Rear-end collision,etc,A heavy-duty truck,56,A heavy-duty truck,39,0,0,0,15.1,4,0,0,2.4,SSE,0
+227,2015,1,0,0,2015/1/14,18:15,Sunny,139.2512528,37.84973889,0,0,Normal,Straight,0,0,V,Outside the road,Falling,Vehicle,75,None,-1,1,0,1,3.4,0,0,0,0.9,ESE,-1
+228,2015,1,0,0,2015/6/24,16:55,Sunny,139.1726028,37.83836944,1,0,Intersection,Straight,3m-5.5m,0,H2V,During cross,etc,Light passenger car,26,Pedestrian,83,1,1,0,22.8,0,0,0,4.2,NNE,1
+229,2015,1,1,0,2015/8/30,4:33,Rain,139.2396556,37.85175556,1,0,Normal,Straight,5.5m-13m,0,H2V,On the street,-1,Light passenger car,27,Pedestrian,84,1,1,0,19.5,0,0,0,1.8,SE,-1
+230,2015,1,0,0,2015/10/23,10:10,Sunny,139.2458583,37.75014167,0,0,Normal,Straight,3m-5.5m,0,V,Outside the road,Falling,Small-sized special motor vehicles etc.,67,None,-1,1,0,0,16.6,0,0,0,2.4,ENE,1
+231,2015,1,0,0,2015/11/4,7:20,Cloudy,139.2830472,37.73849167,1,0,Normal,Straight,0,0,H2V,During cross,etc,A passenger car,29,Pedestrian,81,1,1,0,7.4,0,0,0,1.1,SE,0
+232,2015,1,0,0,2015/12/20,17:15,Sunny,139.2358333,37.77131667,0,0,Intersection,Straight,3m-5.5m,1,H2V,During cross,Near the pedestrian crossing,Pedestrian,84,A passenger car,48,1,1,0,6.2,0,0,0,1.9,NE,0.1
+233,2015,1,0,0,2015/5/5,13:30,Sunny,139.4167806,37.76367222,0,0,Near_Intersection,Straight,0,0,V,Outside the road,Falling,Scooter 50cc or less,77,None,-1,1,0,0,19.1,0,0,0,3.3,NNW,1
+234,2015,1,0,0,2015/1/5,17:10,Sunny,139.2091472,37.72515556,0,0,Normal,Straight,0,0,H2V,On the back,-1,Light passenger car,18,Pedestrian,80,1,1,0,5,0,0,0,1.6,SSW,0
+235,2015,1,1,0,2015/4/12,23:20,Cloudy,139.1773972,37.70895278,0,0,Intersection,Straight,0,1,V2V,Encounter,-1,A heavy-duty truck,50,Light passenger car,65,1,0,0,6.1,0,0,0,0.8,ESE,-1
+236,2015,1,1,1,2015/12/6,16:47,Sunny,139.2306444,37.73403889,1,0,Intersection,Straight,0,0,V2V,Encounter,-1,A passenger car,86,A heavy-duty truck,40,1,0,0,5.5,0,0,0,1.1,SSW,0
+237,2015,1,0,0,2015/7/9,13:05,Cloudy,139.112925,37.76848333,0,0,Other,Othre,-3m,0,V,Manufactured articles,House and fence,A passenger car,63,Property etc.,-1,0,0,0,25.7,0,0,0,2,NNW,0.2
+238,2015,1,0,0,2015/8/19,19:15,Sunny,139.1360333,37.79344722,0,0,Normal,Curve,5.5m-13m,0,H2V,During cross,etc,A passenger car,40,Pedestrian,72,1,1,0,22.4,0,0,0,1.8,NE,0
+239,2015,1,0,1,2015/6/17,8:22,Sunny,139.0588417,37.74450556,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,A passenger car,67,A passenger car,31,1,0,0,22.2,0,0,0,3.3,ESE,1
+240,2015,1,0,0,2015/7/7,15:23,Cloudy,139.0229028,37.77240556,0,0,Normal,Straight,-3m,0,V2V,Encounter,-1,Scooter 50cc or less,83,A passenger car,71,1,0,0,26,0,0,0,2.9,NW,0.2
+241,2015,1,0,0,2015/4/9,13:47,Sunny,138.8155028,37.77851667,1,0,Normal,Straight,0,0,V2V,Encounter,-1,Light passenger car,73,A heavy-duty truck,39,1,0,0,9.7,0,0,0,4.9,N,1
+242,2015,1,0,0,2015/4/15,18:49,Cloudy,138.8939,37.76165556,0,0,Near_Intersection,Straight,5.5m-13m,0,H2V,During cross,etc,Light passenger car,64,Pedestrian,73,1,1,0,9.4,0.5,0,0,2.7,WSW,0
+243,2015,1,0,0,2015/6/14,10:10,Sunny,138.8655222,37.68560556,0,0,Railroad crossing,Straight,0,0,Train,-1,-1,Small-sized special motor vehicles etc.,80,Train,29,1,0,0,27.2,0,0,0,3.2,S,1
+244,2015,1,0,0,2015/9/21,6:00,Sunny,138.8898667,37.71553889,1,0,Normal,Straight,0,0,V,Outside the road,Falling,A passenger car,50,None,-1,0,0,0,13.2,0,0,0,1.9,ESE,0.3
+245,2015,1,0,0,2015/6/17,18:50,Sunny,138.941875,37.69049167,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Vehicle,80,A passenger car,25,1,0,1,23,0,0,0,2,NNW,0
+246,2015,1,0,0,2015/11/28,10:00,Cloudy,138.9280611,37.66838333,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Vehicle,79,A passenger car,35,1,0,1,8.4,0,0,0,3.1,WNW,0
+247,2015,1,0,0,2015/7/22,7:56,Sunny,139.0544333,37.68687778,1,0,Intersection,Straight,0,1,V2V,Turning right,Turn right,A heavy-duty truck,32,Light passenger car,55,0,0,0,28.2,0,0,0,1.7,SSE,1
+248,2015,1,0,0,2015/8/12,8:18,Cloudy,139.0673194,37.70166389,1,0,Intersection,Straight,0,1,V2V,Encounter,-1,Vehicle,73,Medium truck,55,1,0,1,25.3,0,0,0,1.5,SW,0
+249,2015,1,0,0,2015/8/19,17:24,Sunny,139.0270917,37.68405,0,0,Near_Intersection,Straight,0,0,H2V,etc,-1,A passenger car,37,Pedestrian,2,0,1,0,24.5,0,0,0,3.1,N,0.3
+250,2015,1,0,0,2015/10/6,7:20,Sunny,139.1571778,37.57670278,0,0,Other,Othre,0,0,V,Outside the road,Falling,A passenger car,75,None,-1,1,0,0,11.1,0,0,0,2.7,SE,1
+251,2015,1,0,1,2015/12/22,13:45,Sunny,139.0519028,37.65976111,0,0,Intersection,Straight,0,1,V2V,Encounter,-1,Light truck,26,Light passenger car,64,0,0,0,10.2,0,0,0,5.1,NNW,0.7
+252,2015,1,0,0,2015/2/28,14:30,Cloudy,138.9598944,37.59771111,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 51-125cc,81,Light passenger car,34,1,0,0,4.7,0,0,11,2.4,SW,0
+253,2015,1,0,0,2015/6/28,14:30,Rain,138.9772111,37.63608056,0,0,Intersection,Straight,0,1,V2V,Encounter,-1,Scooter 50cc or less,84,A passenger car,20,1,0,0,18.4,2.5,0,0,8.2,WSW,0
+254,2015,1,0,0,2015/7/12,1:55,Sunny,138.9708306,37.62315833,0,0,Normal,Straight,0,0,H2V,On the street,-1,A passenger car,19,Pedestrian,54,0,1,0,16.9,0,0,0,2,SE,-1
+255,2015,1,0,0,2015/7/15,9:15,Sunny,138.9698639,37.63083611,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Vehicle,80,A passenger car,48,1,0,1,26.7,0,0,0,1.2,S,0.1
+256,2015,2,0,0,2015/1/27,17:37,Rain,138.8929333,37.541225,0,0,Intersection,Straight,0,0,H2V,During cross,etc,Light passenger car,26,Pedestrian,84,1,1,0,3.1,0,0,58,2,WSW,-1
+257,2015,1,0,0,2015/7/9,15:45,Sunny,138.9213806,37.52374444,0,0,Near_Intersection,Straight,0,0,V2V,Encounter,-1,A passenger car,30,Vehicle,86,1,0,1,25.9,0,0,0,2.2,N,0.5
+258,2015,1,0,0,2015/7/13,23:35,Sunny,138.9103056,37.53100556,0,0,Near_Intersection,Straight,0,0,V2V,Encounter,-1,Light passenger car,31,Vehicle,67,1,0,1,27.4,0,0,0,1.5,SW,-1
+259,2015,1,0,0,2015/11/12,10:57,Sunny,138.89105,37.55049722,0,0,Near_Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,67,Other quasi-pedestrians,87,1,1,0,13.6,0,0,0,2.4,NNE,0.7
+260,2015,1,0,1,2015/2/4,6:58,Cloudy,138.8242361,37.37175556,0,0,Normal,Straight,0,0,V2V,Frontal collision,-1,A passenger car,59,Light passenger car,64,0,0,0,0.6,1,0,61,0,0,0
+261,2015,1,0,0,2015/2/16,17:22,Cloudy,138.7430194,37.44469167,1,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,A passenger car,23,Pedestrian,66,1,1,0,4.8,0,0,57,1.1,NW,0.2
+262,2015,1,0,0,2015/3/4,18:23,Rain,138.7759917,37.45310556,0,0,Intersection,Straight,0,0,H2V,During cross,etc,A passenger car,41,Pedestrian,79,1,1,0,5.3,0,0,0,9.6,W,0
+263,2015,1,0,0,2015/8/10,19:59,Sunny,138.8399389,37.42603889,0,0,Intersection,Straight,0,0,H2V,During cross,etc,Pedestrian,54,A passenger car,47,0,1,0,28.3,0,0,0,1.4,WSW,-1
+264,2015,1,0,0,2015/9/20,3:40,Cloudy,138.8661639,37.46354167,0,0,Near_Intersection,Straight,0,0,H2V,On the street,-1,Light passenger car,40,Pedestrian,66,1,1,0,17.4,0,0,0,2.6,SSW,-1
+265,2015,1,0,0,2015/10/1,13:00,Cloudy,139.0075333,37.46216111,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Light passenger car,63,Truck,52,0,0,0,22.5,0,0,0,1.3,SSW,0
+266,2015,1,2,1,2015/11/24,10:09,Rain,138.8372667,37.39396111,1,0,Normal,Straight,0,0,H2V,Working on the street,-1,Light passenger car,62,Pedestrian,41,0,1,0,13.3,1.5,0,0,2.9,SSW,0
+267,2015,1,0,0,2015/11/30,15:42,Cloudy,138.7564611,37.38365,0,0,Intersection,Straight,0,0,H2V,During cross,etc,Light truck,85,Pedestrian,80,1,1,0,14.4,0,0,0,1.5,SSW,0.7
+268,2015,1,0,0,2015/12/6,17:23,Cloudy,138.8235528,37.46853056,0,0,Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,44,Pedestrian,81,1,1,0,7,0,0,0,1.1,WNW,0
+269,2015,1,1,1,2015/12/12,16:51,Sunny,138.7847278,37.42197778,1,0,Normal,Straight,0,0,V2V,Turning right,Turn right,Light passenger car,55,A passenger car,45,1,0,0,10.6,0,0,0,1.4,NNE,0.1
+270,2015,1,0,0,2015/6/29,17:20,Sunny,138.8157111,37.62087778,0,0,Near_Intersection,Straight,0,0,V2V,Turning right,etc,Light passenger car,71,Vehicle,66,1,0,1,23.2,0,0,0,3.2,N,0.8
+271,2015,1,0,0,2015/4/27,15:15,Sunny,138.8196778,37.28876667,1,0,Normal,Straight,0,0,H2V,During cross,A pedestrian crossing,A passenger car,61,Pedestrian,84,1,1,0,28,0,0,0,1.2,ESE,1
+272,2015,1,0,0,2015/11/30,17:45,Rain,138.8153444,37.30308611,1,0,Normal,Straight,0,0,V2V,Encounter,-1,A passenger car,32,Vehicle,76,1,0,1,12.4,0,0,0,3,WSW,-1
+273,2015,1,1,0,2015/6/10,11:50,Sunny,139.0323306,37.33463611,1,0,Normal,Straight,0,0,V2V,Rear-end collision,etc,Light truck,83,A passenger car,82,1,0,0,23.6,0,0,0,1.8,SSW,1
+274,2015,1,0,0,2015/9/29,11:20,Sunny,138.962725,37.23967222,1,0,Near_Intersection,Straight,0,0,V,Manufactured articles,Protection fence etc.,Light truck,55,Property etc.,-1,0,0,0,20.5,0,0,0,1.6,W,0.9
+275,2015,1,0,0,2015/10/7,15:10,Sunny,138.9530861,37.32771389,1,0,Normal,Straight,0,0,H2V,During cross,etc,Light truck,46,Other quasi-pedestrians,89,1,1,0,17.6,0,0,0,1.9,NNW,0.9
+276,2015,1,0,0,2015/4/30,3:00,Sunny,138.8476694,37.07308611,1,0,Normal,Curve,0,0,V,Outside the road,Falling,Light passenger car,45,None,-1,0,0,0,9.7,0,0,0,2.4,SE,-1
+277,2015,1,0,0,2015/5/9,22:35,Sunny,138.8740917,37.18504444,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Light truck,55,None,-1,0,0,0,10.7,0,0,0,0.9,NNE,-1
+278,2015,1,0,0,2015/5/27,8:20,Sunny,138.9150167,37.12901667,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 50cc or less,81,A passenger car,88,1,0,0,17.1,0,0,0,1.2,SW,1
+279,2015,1,0,0,2015/8/23,13:30,Cloudy,138.8680861,37.07750278,1,0,Normal,Straight,0,0,V2V,Turning right,Turn right,A passenger car,28,Light Scooter 126-251cc,40,0,0,0,23.7,0,0,0,2,NW,0
+280,2015,1,0,0,2015/1/24,22:50,Cloudy,138.6511694,37.01390556,1,0,Near_Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,A passenger car,59,Pedestrian,51,0,1,0,0.5,0,0,270,0.9,ESE,-1
+281,2015,1,0,0,2015/4/13,9:57,Cloudy,138.6396361,37.13797222,1,0,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,Light truck,76,Vehicle,79,1,0,1,6.7,0,0,88,0.8,S,0
+282,2015,1,0,0,2015/5/18,14:53,Cloudy,138.7637694,37.15496389,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 51-125cc,58,Light passenger car,73,1,0,0,24.2,0,0,0,5.4,SE,0
+283,2015,1,0,0,2015/9/5,18:36,Sunny,138.7660194,37.14953056,1,0,Normal,Straight,0,0,H2V,During cross,A pedestrian crossing,A passenger car,22,Pedestrian,86,1,1,0,20.2,0,0,0,0.3,NE,0
+284,2015,1,1,0,2015/6/4,11:50,Sunny,138.6938917,37.36377778,0,0,Normal,Straight,0,0,V,Manufactured articles,etc,Light passenger car,89,Property etc.,-1,1,0,0,18.8,0,0,0,4.1,WNW,0.3
+285,2015,1,0,0,2015/10/7,16:18,Sunny,138.5473861,37.36542778,0,0,Intersection,Curve,0,0,H2V,During cross,etc,Light passenger car,75,Pedestrian,84,1,1,0,18.4,0,0,0,3.6,N,0.5
+286,2015,1,0,2,2015/7/12,16:15,Sunny,138.0251139,37.09074167,0,0,Normal,Curve,0,0,V,Outside the road,Falling,A passenger car,66,None,-1,1,0,0,30.7,0,0,0,2.1,NNW,1
+287,2015,1,0,0,2015/12/29,17:07,Cloudy,137.9295361,37.03576944,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,67,Pedestrian,82,1,1,0,4.6,0,0,0,2.6,W,0
+288,2015,2,1,0,2015/7/16,12:02,Cloudy,138.3677056,38.01821111,0,0,Other,Othre,0,0,H2V,etc,-1,Light passenger car,83,Pedestrian,84,1,1,0,23.3,0,0,0,2.8,WNW,0
+289,2015,1,0,0,2015/12/21,21:15,Cloudy,138.3632972,38.02094167,1,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,Light passenger car,41,Pedestrian,81,1,1,0,9.2,0,0,0,8.5,NNW,0
+290,2015,1,0,0,2015/10/27,17:26,Cloudy,138.4317972,38.024025,0,0,Intersection,Straight,0,0,H2V,During cross,etc,Light truck,80,Pedestrian,75,1,1,0,20.1,0,0,0,4.6,ESE,0
+291,2015,1,0,0,2015/2/9,10:15,Snow,138.2579667,37.186025,0,0,Normal,Straight,0,0,V,Manufactured articles,House and fence,A passenger car,43,Property etc.,-1,0,0,0,-2.5,2,3,97,1.5,WNW,0
+292,2015,1,0,1,2015/2/10,12:19,Snow,138.2082972,37.16678889,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,A passenger car,49,Medium truck,21,0,0,0,-0.2,0.5,0,131,1.8,SE,0
+293,2015,1,1,0,2015/6/3,12:05,Cloudy,138.4743222,37.08291111,1,0,Normal,Curve,0,0,V,Outside the road,etc,Light passenger car,85,None,-1,1,0,0,20.8,0,0,0,2.3,NNW,0
+294,2015,1,0,1,2015/8/6,12:43,Sunny,138.3611222,37.25278056,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Light truck,79,Light passenger car,46,1,0,0,33.4,0,0,0,1.9,NNE,1
+295,2015,1,0,0,2015/10/21,18:08,Cloudy,138.3597528,37.07139167,0,0,Intersection,Straight,0,0,H2V,During cross,etc,Light truck,53,Pedestrian,90,1,1,0,13.2,0,0,0,0.8,SE,0
+296,2015,1,0,0,2015/12/4,5:30,Rain,138.2846389,37.03499167,0,0,Normal,Curve,0,0,V,Manufactured articles,Pier and bridge,Light passenger car,46,Property etc.,-1,0,0,0,5.3,1,0,0,6.9,SW,0
+297,2015,1,0,0,2015/1/10,12:44,Snow,138.3665694,37.25587222,0,1,Normal,Straight,0,0,V,Manufactured articles,Protection fence etc.,A passenger car,54,Property etc.,-1,0,0,0,2.4,0,0,175,2.9,NNW,0.6
+298,2015,2,0,1,2015/3/22,2:00,Sunny,137.9961444,37.09485278,0,1,Normal,Straight,0,0,V,Manufactured articles,etc,A passenger car,45,Property etc.,-1,0,0,0,4.3,0,0,0,2.8,SE,-1
+299,2015,1,0,0,2015/5/25,16:53,Sunny,138.6149278,37.38866944,0,1,Normal,Straight,0,0,H2V,Working on the street,-1,A heavy-duty truck,54,Pedestrian,69,1,1,0,20.6,0,0,0,2.6,NW,0.5
+300,2015,1,1,3,2015/7/5,12:20,Sunny,139.1024583,37.82060833,0,1,Normal,Straight,5.5m-13m,0,V,Manufactured articles,Protection fence etc.,A passenger car,63,Property etc.,-1,1,0,0,24.8,0,0,0,2.3,N,0.4
+301,2015,1,0,1,2015/11/16,4:21,Rain,138.3222333,37.21451111,0,1,Normal,Straight,0,0,V,Parking,Driver absent,Medium truck,57,Property etc.,-1,0,0,0,13.6,3,0,0,1.2,NNW,0
+302,2016,1,0,0,2016/2/6,18:08,Snow,139.0262611,37.91542778,1,0,Near_Intersection,Straight,19.5m-,1,H2V,During cross,Near the pedestrian crossing,A passenger car,38,Pedestrian,93,1,1,0,2.3,0,0,2,4.3,N,0
+303,2016,1,0,0,2016/7/27,9:45,Cloudy,139.0158361,37.91676944,0,0,Intersection,Straight,5.5m-13m,0,V2V,Turning right,etc,A passenger car,80,Vehicle,82,1,0,1,25.8,0,0,0,4.4,SSE,0.4
+304,2016,1,0,0,2016/1/23,1:17,Sunny,139.0694972,37.91841111,1,0,Intersection,Straight,3m-5.5m,1,H2V,On the street,-1,Pedestrian,52,A passenger car,57,0,1,0,1.7,0,0,5,3.7,W,0
+305,2016,1,0,0,2016/5/2,8:56,Cloudy,139.0774694,37.913825,0,0,Normal,Straight,3m-5.5m,0,V,Toppling over,-1,Vehicle,71,None,-1,1,0,1,15.4,0,0,0,1.5,S,0
+306,2016,1,0,0,2016/7/8,10:56,Cloudy,139.105325,37.94273889,0,0,Near_Intersection,Straight,-3m,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,79,Pedestrian,74,1,1,0,24.3,0,0,0,1.3,WNW,0.9
+307,2016,1,0,0,2016/9/3,19:05,Sunny,139.0494722,37.91203611,0,0,Intersection,Straight,3m-5.5m,0,H2V,During cross,etc,Light Scooter 126-251cc,21,Pedestrian,81,1,1,0,28.5,0,0,0,1.5,NE,0
+308,2016,1,0,0,2016/3/6,9:41,Sunny,138.9813417,37.86333889,0,0,Intersection,Straight,3m-5.5m,1,V2V,Turning right,Turn right,A passenger car,42,Motorcycle over 751cc,19,0,0,0,15.3,0,0,0,7.2,SE,0.9
+309,2016,1,0,0,2016/7/16,10:38,Cloudy,139.5369583,38.13119167,1,0,Intersection,Straight,0,0,V2V,Overtaking,-1,Motorcycle over 751cc,35,Truck,50,0,0,0,25.8,0,0,0,1.7,SSE,0
+310,2016,1,1,2,2016/9/24,13:35,Cloudy,139.4263972,38.152825,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,A passenger car,57,Medium truck,57,0,0,0,24,0,0,0,2.9,SE,0.1
+311,2016,1,0,0,2016/1/26,7:33,Cloudy,139.2598972,38.00068611,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Medium truck,50,Light truck,57,0,0,0,0.3,0.5,1,30,4.5,SSW,0
+312,2016,1,0,0,2016/8/21,7:55,Sunny,139.4281972,37.97169722,0,0,Normal,Curve,0,0,V,Manufactured articles,etc,Light Scooter 126-251cc,58,Property etc.,-1,0,0,0,27.2,0,0,0,0.6,NW,1
+313,2016,1,0,0,2016/2/6,20:30,Snow,139.1620056,37.73057778,0,0,Near_Intersection,Straight,0,0,V,Outside the road,Falling,Vehicle,63,None,-1,0,0,1,-0.2,0,0,26,2.1,ENE,-1
+314,2016,1,0,0,2016/5/2,19:00,Cloudy,138.9768028,37.73755556,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light passenger car,30,Other light vehicles,82,1,0,0,18.4,0,0,0,2.7,SE,0
+315,2016,1,1,0,2016/5/17,6:43,Rain,139.0377722,37.71265556,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 50cc or less,79,Light passenger car,39,1,0,0,12.6,1,0,0,1.1,WNW,0
+316,2016,1,0,0,2016/5/29,14:17,Sunny,139.0059278,37.74365,0,0,Normal,Curve,0,0,V2V,Frontal collision,-1,Motorcycle 251-400cc,30,Light passenger car,57,0,0,0,26.8,0,0,0,3.4,N,0.9
+317,2016,1,0,1,2016/1/13,17:05,Rain,138.8687528,37.67386111,0,0,Normal,Straight,0,0,H2V,Stopping on the road,-1,Medium truck,32,Pedestrian,78,1,1,0,2.6,0,0,0,1.9,SW,0
+318,2016,1,0,2,2016/4/29,15:00,Cloudy,138.8750639,37.774775,0,0,Near_Intersection,Straight,5.5m-13m,0,V,Outside the road,Falling,Light passenger car,42,None,-1,0,0,0,12.4,0,0,0,7.8,NW,1
+319,2016,1,0,0,2016/6/11,23:38,Cloudy,138.9574556,37.81682222,0,0,Normal,Straight,5.5m-13m,0,H2V,On the back,-1,A passenger car,68,Pedestrian,82,1,1,0,22,0,0,0,1.4,SSE,0
+320,2016,1,0,1,2016/9/18,15:29,Rain,138.9486083,37.72661389,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light truck,80,Light passenger car,34,1,0,0,20.6,0.5,0,0,2.6,N,0
+321,2016,1,0,0,2016/9/24,21:52,Sunny,138.9052361,37.77504444,1,0,Normal,Straight,5.5m-13m,0,V2V,Rear-end collision,Ongoing,A passenger car,59,Vehicle,79,1,0,1,21.8,0,0,0,1,SSE,0
+322,2016,1,0,0,2016/7/24,10:35,Sunny,138.918925,37.62727222,1,0,Normal,Straight,0,0,V2V,Encounter,-1,Light truck,79,A passenger car,21,1,0,0,29.8,0,0,0,1.6,ESE,1
+323,2016,1,0,0,2016/8/25,10:09,Sunny,139.0944861,37.54403333,1,0,Intersection,Straight,0,0,H2V,Working on the street,-1,Truck,20,Pedestrian,61,0,1,0,29,0,0,0,0.9,S,1
+324,2016,1,0,0,2016/1/6,13:20,Cloudy,138.8899111,37.53503333,0,0,Normal,Straight,0,0,V2V,Overtaking,-1,Medium truck,28,Scooter 51-125cc,88,1,0,0,5.5,0.5,0,0,2.7,SSW,0
+325,2016,1,0,0,2016/9/10,14:15,Sunny,138.8712972,37.58935556,0,0,Near_Intersection,Straight,0,0,V,Outside the road,Falling,Large-sized special motor vehicles for Farming,67,None,-1,1,0,0,27.2,0,0,0,3.4,NW,0.6
+326,2016,1,0,0,2016/4/5,19:00,Sunny,138.8032222,37.39314444,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,49,Pedestrian,81,1,1,0,12,0,0,0,1.7,SW,0
+327,2016,1,0,0,2016/6/15,9:34,Sunny,138.8684278,37.45313611,0,0,Near_Intersection,Straight,0,0,V2V,etc,-1,A passenger car,83,Vehicle,84,1,0,1,25.9,0,0,0,1.8,ENE,1
+328,2016,1,0,0,2016/6/21,19:46,Sunny,138.7863694,37.44499167,1,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,Light passenger car,18,Pedestrian,74,1,1,0,23.4,0,0,0,0.8,NNE,0
+329,2016,1,0,0,2016/7/7,0:48,Cloudy,138.8162889,37.44556389,0,0,Normal,Straight,0,0,H2V,On the street,-1,A passenger car,38,Pedestrian,36,0,1,0,25.2,0,0,0,4.4,WSW,-1
+330,2016,1,0,0,2016/7/10,9:50,Sunny,138.8254361,37.51376944,0,0,Intersection,Straight,0,0,V2V,Encounter,-1,Scooter 51-125cc,84,Light passenger car,21,1,0,0,26.6,0,0,0,2.2,SW,0.6
+331,2016,1,0,0,2016/9/13,0:00,Rain,138.8966972,37.48438889,0,0,Intersection,Straight,0,0,V,Outside the road,Falling,A passenger car,72,None,-1,1,0,0,21.6,0.5,0,0,2.1,N,-1
+332,2016,1,0,0,2016/1/15,17:23,Cloudy,138.7741806,37.65148611,1,0,Near_Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,A passenger car,36,Pedestrian,52,0,1,0,1.7,0,0,0,1.6,N,0.3
+333,2016,1,0,0,2016/4/28,11:54,Rain,138.769975,37.59244444,1,0,Normal,Curve,0,0,V,Manufactured articles,Protection fence etc.,A heavy-duty truck,77,Property etc.,-1,1,0,0,14.8,1,0,0,2.8,NW,0
+334,2016,1,1,1,2016/7/10,15:48,Cloudy,138.7498778,37.50800556,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Light passenger car,21,Light truck,57,1,0,0,26.5,0,0,0,4.3,NNW,0.9
+335,2016,1,1,2,2016/7/18,15:30,Sunny,138.78105,37.59369722,1,0,Intersection,Straight,0,0,V2V,Encounter,-1,Light passenger car,79,Motorcycle over 751cc,37,1,0,0,25.5,0,0,0,3.3,NNW,0.1
+336,2016,1,0,0,2016/1/28,20:30,Cloudy,138.7712139,37.22566944,0,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,Medium passenger car,57,Pedestrian,90,1,1,0,1.2,0,0,77,0.4,NW,-1
+337,2016,1,1,0,2016/8/9,12:15,Cloudy,138.8391472,37.26487222,0,0,Normal,Curve,0,0,V,Manufactured articles,Protection fence etc.,A passenger car,22,Property etc.,-1,0,0,0,27.2,0,0,0,1.6,W,0.4
+338,2016,1,0,0,2016/5/27,20:23,Sunny,138.9753611,37.20915556,0,0,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,A passenger car,31,Vehicle,49,0,0,1,19.1,0,0,0,0.7,S,-1
+339,2016,1,0,0,2016/6/17,19:35,Cloudy,138.9675056,37.23374444,1,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,Light truck,44,Pedestrian,54,0,1,0,22.9,0,0,0,0.8,SW,0
+340,2016,1,0,0,2016/9/12,18:15,Rain,138.9540889,37.21425833,0,0,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,A passenger car,53,Small-sized special motor vehicles for Farming,67,1,0,0,24.4,0,0,0,2.4,WNW,0
+341,2016,1,0,0,2016/3/30,20:20,Cloudy,138.8709611,37.06305278,0,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,A passenger car,37,Pedestrian,80,1,1,0,9.6,3,0,0,3.9,NNW,-1
+342,2016,1,0,0,2016/8/13,11:38,Cloudy,138.9586972,37.14378889,1,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,Light passenger car,42,Pedestrian,64,0,1,0,30.9,0,0,0,1.8,WSW,0.6
+343,2016,1,0,0,2016/5/12,16:05,Sunny,138.7610333,37.14623333,0,0,Intersection,Straight,0,0,H2V,During cross,A pedestrian crossing,Light truck,29,Pedestrian,92,1,1,0,19,0,0,0,1.9,NNE,0.8
+344,2016,1,0,0,2016/5/18,7:00,Sunny,138.7070694,37.09855556,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Light truck,80,None,-1,1,0,0,10.9,0,0,0,2,S,1
+345,2016,1,0,0,2016/8/4,8:29,Sunny,138.6082444,36.99457222,0,0,Normal,Curve,0,0,V,Outside the road,Falling,Light truck,79,None,-1,1,0,0,23.4,0,0,0,0.4,WNW,0.5
+346,2016,1,0,0,2016/8/21,13:28,Sunny,138.6405361,36.99588611,0,0,Normal,Curve,0,0,V2V,Frontal collision,-1,Motorcycle over 751cc,47,A heavy-duty truck,27,0,0,0,30.3,0,0,0,1.4,ESE,1
+347,2016,1,0,0,2016/4/23,1:25,Sunny,138.5668611,37.37681667,0,0,Normal,Straight,0,0,H2V,During cross,etc,A passenger car,51,Pedestrian,54,0,1,0,9.3,0,0,0,1.7,SSE,-1
+348,2016,1,0,0,2016/6/5,17:45,Sunny,138.6559028,37.20789167,0,0,Normal,Curve,0,0,V,Manufactured articles,etc,Small-sized special motor vehicles for Farming,86,Property etc.,-1,1,0,0,18.6,0,0,0,1.3,NNW,0.7
+349,2016,1,0,0,2016/7/7,12:55,Rain,138.2356306,36.99219444,0,0,Normal,Straight,0,0,H2V,During cross,etc,Light truck,22,Pedestrian,89,1,1,0,20,0,0,0,1.7,N,0
+350,2016,1,2,0,2016/1/4,15:32,Rain,138.0142972,37.08493056,0,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Light passenger car,34,Light truck,68,1,0,0,10.7,0.5,0,0,5.2,WNW,0
+351,2016,1,0,1,2016/7/26,17:10,Rain,137.8654139,36.87571944,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,A heavy-duty truck,39,A heavy-duty truck,66,1,0,0,21.9,8.5,0,0,1,S,0
+352,2016,1,0,0,2016/9/28,15:10,Rain,137.758975,37.01425556,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,Light truck,62,Medium truck,27,0,0,0,22.2,11.5,0,0,1.9,WNW,0
+353,2016,1,0,0,2016/6/22,8:35,Sunny,138.2968417,38.13944722,0,0,Normal,Straight,0,0,V2V,Rear-end collision,Ongoing,A passenger car,82,Small-sized special motor vehicles for Farming,79,1,0,0,22.2,0,0,0,4,NW,1
+354,2016,1,0,0,2016/2/4,22:30,Rain,138.3065333,37.11966667,0,0,Normal,Curve,0,0,V,Manufactured articles,A traffic sign,Light truck,70,Property etc.,-1,1,0,0,2.9,0,0,44,1.3,ESE,0
+355,2016,1,0,0,2016/2/16,4:49,Cloudy,138.328275,37.22563889,1,0,Near_Intersection,Straight,0,0,H2V,On the street,-1,A heavy-duty truck,56,Pedestrian,63,0,1,0,-1.3,0,0,35,1.3,SW,0
+356,2016,1,0,0,2016/5/3,12:05,Sunny,138.2543,37.14438333,0,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,Truck,67,Pedestrian,89,1,1,0,29.4,0,0,0,11.5,S,1
+357,2016,1,2,2,2016/5/4,12:35,Sunny,138.5429583,37.15775278,1,0,Normal,Straight,0,0,V2V,Frontal collision,-1,Motorcycle over 751cc,54,A passenger car,21,0,0,0,19.6,0,0,0,1.5,NNE,0.4
+358,2016,1,1,3,2016/6/5,15:50,Cloudy,138.0802583,37.15568889,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,A passenger car,41,A heavy-duty truck,48,0,0,0,18,0,0,0,3.3,N,0
+359,2016,1,0,0,2016/6/29,10:40,Sunny,138.3958194,37.18101111,0,0,Normal,Straight,0,0,V,Manufactured articles,Protection fence etc.,Light truck,87,Property etc.,-1,1,0,0,24.8,0,0,0,2,NW,1
+360,2016,1,0,0,2016/7/17,11:05,Cloudy,138.303625,37.03295556,0,0,Near_Intersection,Curve,0,0,V,Manufactured articles,etc,Light truck,83,Property etc.,-1,1,0,0,25.6,1,0,0,0.9,NNE,0.1
+361,2016,1,0,0,2016/8/29,21:08,Cloudy,138.13195,37.16448889,1,0,Normal,Curve,0,0,V2V,Frontal collision,-1,Scooter 51-125cc,47,Medium truck,38,0,0,0,26.9,0,0,0,0.7,W,0
+362,2016,1,0,0,2016/1/15,19:20,Fog,139.4627,38.19659444,0,1,Normal,Straight,0,0,H2V,During cross,etc,Light passenger car,21,Pedestrian,69,1,1,0,-1,0,0,21,0.6,SSE,-1
+363,2016,1,0,0,2016/5/1,10:50,Cloudy,139.100875,37.82073611,0,1,Normal,Straight,5.5m-13m,0,V,Manufactured articles,etc,Light Scooter 126-251cc,53,Property etc.,-1,0,0,0,14.9,0,0,0,7,SW,0
+364,2016,1,1,2,2016/5/3,22:55,Sunny,138.2192333,37.10811667,0,1,Normal,Straight,0,0,V2V,Frontal collision,-1,Light passenger car,64,A passenger car,31,0,0,0,23.4,0,0,0,13.6,S,0
+365,2016,1,1,0,2016/8/12,12:50,Sunny,139.3200972,37.99127778,0,1,Normal,Straight,0,0,V,Manufactured articles,etc,A passenger car,65,Property etc.,-1,1,0,0,30.2,0,0,0,3,WNW,1
+366,2016,1,0,0,2016/8/18,11:43,Sunny,138.7924361,37.39386667,0,1,Normal,Straight,0,0,V,Manufactured articles,Separation zone and safety island,Light Scooter 126-251cc,18,Property etc.,-1,0,0,0,29.8,0,0,0,2.3,NNW,0.2
+367,2016,1,0,0,2016/9/6,16:15,Sunny,138.15005,37.14925833,0,1,Normal,Straight,0,0,V,Manufactured articles,Protection fence etc.,A passenger car,35,Property etc.,-1,0,0,0,27,0,0,0,1.8,NNW,0.1

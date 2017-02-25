@@ -1,0 +1,34 @@
+No,Year,Dead,Seriously Injured,Injured,Date,Time,Weather,Longitude,Latitude,National Road,Highway,Road Type,Road Shape,Road Width,Signal,Kinds of Traffic Accident,Detail_1,Detail_2,A_Type,A_Age,B_Type,B_Age,Elderly Person,Walker,Bicycle,Temperature,Amount of Precipitation[mm],Amount of Snow[cm],Snowfall[cm],Wind Velocity[mps],Wind Direction[mps],Sunshine Duration
+1,2013,1,0,0,2013/11/8,10:30,Cloudy,137.8942806,37.05140278,1,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,Light passenger car,66,Pedestrian,85,1,1,0,15.5,0,0,0,5.1,WNW,0.1
+2,2014,1,0,0,2014/4/30,14:30,Cloudy,138.9990639,37.474425,0,0,Near_Intersection,Straight,0,0,H2V,In face-to-face way,-1,Light passenger car,79,Pedestrian,70,1,1,0,18.9,0,0,0,4.2,ESE,0.1
+3,2015,1,0,0,2015/12/20,17:15,Sunny,139.2358333,37.77131667,0,0,Intersection,Straight,3m-5.5m,1,H2V,During cross,Near the pedestrian crossing,Pedestrian,84,A passenger car,48,1,1,0,6.2,0,0,0,1.9,NE,0.1
+4,2015,1,0,0,2015/2/16,17:22,Cloudy,138.7430194,37.44469167,1,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,A passenger car,23,Pedestrian,66,1,1,0,4.8,0,0,57,1.1,NW,0.2
+5,2013,1,0,0,2013/6/8,10:28,Sunny,138.234075,37.16874167,0,0,Intersection,Straight,0,0,H2V,During cross,A pedestrian crossing,Light passenger car,54,Pedestrian,69,1,1,0,21.7,0,0,0,1.6,NNW,0.3
+6,2014,1,0,0,2014/10/23,16:35,Sunny,139.2222306,37.83552778,0,0,Normal,Straight,3m-5.5m,0,H2V,On the back,-1,Light passenger car,20,Other quasi-pedestrians,85,1,1,0,13.8,0,0,0,2.1,NE,0.3
+7,2015,1,0,0,2015/8/19,17:24,Sunny,139.0270917,37.68405,0,0,Near_Intersection,Straight,0,0,H2V,etc,-1,A passenger car,37,Pedestrian,2,0,1,0,24.5,0,0,0,3.1,N,0.3
+8,2016,1,0,0,2016/1/15,17:23,Cloudy,138.7741806,37.65148611,1,0,Near_Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,A passenger car,36,Pedestrian,52,0,1,0,1.7,0,0,0,1.6,N,0.3
+9,2013,1,0,0,2013/9/27,18:15,Cloudy,139.0452306,37.66044722,1,0,Intersection,Straight,0,1,H2V,During cross,Near the pedestrian crossing,Pedestrian,81,Light passenger car,62,1,1,0,17.3,0,0,0,2.8,NNE,0.4
+10,2013,1,0,0,2013/11/9,9:45,Sunny,138.4178778,37.30544444,1,0,Normal,Straight,0,0,H2V,Working on the street,-1,Medium truck,54,Pedestrian,61,0,1,0,10.4,0,0,0,1.6,E,0.4
+11,2014,1,0,0,2014/4/28,10:15,Sunny,138.8498722,37.05033333,0,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,A passenger car,63,Pedestrian,89,1,1,0,17.5,0,0,0,2.3,WNW,0.4
+12,2014,1,0,0,2014/9/22,17:53,Sunny,138.6296806,37.33440556,1,0,Normal,Straight,0,0,H2V,In face-to-face way,-1,A passenger car,39,Pedestrian,67,1,1,0,16.8,0,0,0,1.7,S,0.5
+13,2015,1,0,0,2015/10/7,16:18,Sunny,138.5473861,37.36542778,0,0,Intersection,Curve,0,0,H2V,During cross,etc,Light passenger car,75,Pedestrian,84,1,1,0,18.4,0,0,0,3.6,N,0.5
+14,2015,1,0,0,2015/5/25,16:53,Sunny,138.6149278,37.38866944,0,1,Normal,Straight,0,0,H2V,Working on the street,-1,A heavy-duty truck,54,Pedestrian,69,1,1,0,20.6,0,0,0,2.6,NW,0.5
+15,2016,1,0,0,2016/8/13,11:38,Cloudy,138.9586972,37.14378889,1,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,Light passenger car,42,Pedestrian,64,0,1,0,30.9,0,0,0,1.8,WSW,0.6
+16,2014,1,0,0,2014/8/23,9:20,Sunny,138.9774222,37.63231944,1,0,Intersection,Straight,0,0,H2V,During cross,etc,A passenger car,75,Pedestrian,81,1,1,0,25.3,0,0,0,3.6,S,0.7
+17,2015,1,0,0,2015/11/12,10:57,Sunny,138.89105,37.55049722,0,0,Near_Intersection,Straight,0,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,67,Other quasi-pedestrians,87,1,1,0,13.6,0,0,0,2.4,NNE,0.7
+18,2015,1,0,0,2015/11/30,15:42,Cloudy,138.7564611,37.38365,0,0,Intersection,Straight,0,0,H2V,During cross,etc,Light truck,85,Pedestrian,80,1,1,0,14.4,0,0,0,1.5,SSW,0.7
+19,2014,1,0,0,2014/9/9,9:40,Sunny,138.7761944,37.10366111,1,0,Normal,Curve,0,0,H2V,During cross,etc,Light truck,48,Electric Wheelchair,92,1,1,0,22.5,0,0,0,3.9,SSE,0.8
+20,2016,1,0,0,2016/5/12,16:05,Sunny,138.7610333,37.14623333,0,0,Intersection,Straight,0,0,H2V,During cross,A pedestrian crossing,Light truck,29,Pedestrian,92,1,1,0,19,0,0,0,1.9,NNE,0.8
+21,2014,1,0,0,2014/9/10,10:20,Sunny,139.0506278,37.91094444,0,0,Intersection,Straight,5.5m-13m,0,H2V,During cross,etc,Truck,35,Pedestrian,89,1,1,0,25.4,0,0,0,2.2,S,0.9
+22,2015,1,0,0,2015/10/7,15:10,Sunny,138.9530861,37.32771389,1,0,Normal,Straight,0,0,H2V,During cross,etc,Light truck,46,Other quasi-pedestrians,89,1,1,0,17.6,0,0,0,1.9,NNW,0.9
+23,2016,1,0,0,2016/7/8,10:56,Cloudy,139.105325,37.94273889,0,0,Near_Intersection,Straight,-3m,0,H2V,During cross,Near the pedestrian crossing,Light passenger car,79,Pedestrian,74,1,1,0,24.3,0,0,0,1.3,WNW,0.9
+24,2013,1,0,0,2013/12/3,15:26,Sunny,139.0215139,37.88673611,0,0,Intersection,Straight,5.5m-13m,0,H2V,During cross,etc,A large passenger car,70,Pedestrian,70,1,1,0,10.3,0,0,0,3.1,S,1
+25,2013,1,0,0,2013/4/29,16:01,Sunny,138.7084139,37.41258056,1,0,Normal,Curve,0,0,H2V,Stopping on the road,-1,Light passenger car,69,Pedestrian,92,1,1,0,22.8,0,0,0,1.5,NW,1
+26,2013,1,0,0,2013/6/29,18:10,Sunny,138.7726556,37.14630833,0,0,Normal,Straight,0,0,H2V,Working on the street,-1,Light passenger car,57,Pedestrian,87,1,1,0,24,0,0,0,1.4,NW,1
+27,2014,1,0,0,2014/10/30,14:35,Sunny,139.2189472,37.9137,0,0,Intersection,Straight,5.5m-13m,0,H2V,During cross,etc,A passenger car,59,Pedestrian,92,1,1,0,18,0,0,0,2.7,N,1
+28,2014,1,0,0,2014/4/19,9:00,Sunny,138.8948694,37.76377778,0,0,Intersection,Straight,5.5m-13m,1,H2V,During cross,A pedestrian crossing,Pedestrian,66,Light passenger car,28,1,1,0,10.4,0,0,0,3.1,NNW,1
+29,2014,1,0,0,2014/5/12,8:35,Sunny,139.0485417,37.66335556,1,0,Intersection,Straight,0,1,H2V,During cross,A pedestrian crossing,Light truck,81,Pedestrian,80,1,1,0,21.8,0,0,0,5.4,ESE,1
+30,2015,1,0,0,2015/6/24,16:55,Sunny,139.1726028,37.83836944,1,0,Intersection,Straight,3m-5.5m,0,H2V,During cross,etc,Light passenger car,26,Pedestrian,83,1,1,0,22.8,0,0,0,4.2,NNE,1
+31,2015,1,0,0,2015/4/27,15:15,Sunny,138.8196778,37.28876667,1,0,Normal,Straight,0,0,H2V,During cross,A pedestrian crossing,A passenger car,61,Pedestrian,84,1,1,0,28,0,0,0,1.2,ESE,1
+32,2016,1,0,0,2016/8/25,10:09,Sunny,139.0944861,37.54403333,1,0,Intersection,Straight,0,0,H2V,Working on the street,-1,Truck,20,Pedestrian,61,0,1,0,29,0,0,0,0.9,S,1
+33,2016,1,0,0,2016/5/3,12:05,Sunny,138.2543,37.14438333,0,0,Near_Intersection,Straight,0,0,H2V,During cross,etc,Truck,67,Pedestrian,89,1,1,0,29.4,0,0,0,11.5,S,1
