@@ -1,0 +1,182 @@
+
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+<meta charset="utf-8">
+<title>GSVPano.js TEST</title>
+<style>
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font: 12px/14px tahoma, sans-serif;
+	padding: 10px;
+}
+h1{
+	font-size: 24px;
+	line-height: 34px;
+}
+canvas{
+	margin-top: 10px
+}
+#map_canvas {
+	width: 832px;
+	height: 300px;
+}
+#messegeArea {
+	height: 4em;
+}
+</style>
+</head>
+<body>
+
+<h1><a href="https://github.com/spite/GSVPano.js">GSVPano.js</a> example</h1>
+<p>地図上(道路)をクリックしてください</p>
+<br/>
+<div id="map_canvas"></div>
+<div id="messegeArea">
+	<div id="messageDiv" ></div>
+	<div id="errorDiv" ></div>
+</div>
+<div id="GSVPano"></div>
+<div><img id="newImg"></div>
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="GSVPano.js"></script>
+
+
+<script>
+
+var messageDiv = document.getElementById( 'messageDiv' );
+var errorDiv = document.getElementById( 'errorDiv' );
+var tableNum=1;
+var csv=csv2Array("H2V_2.csv");
+console.log(csv);
+// var req = new XMLHttpRequest();
+// req.open("get","AllData_Niigata.csv",true);
+// req.send(null);
+// alert("test");
+// req.onload=function(){
+// 	convertCSVtoArray(req.responseText);
+// }
+function csv2Array(filePath) { //csvﾌｧｲﾙﾉ相対ﾊﾟｽor絶対ﾊﾟｽ
+	var csvData = new Array();
+	var data = new XMLHttpRequest();
+	data.open("GET", filePath, false); //true:非同期,false:同期
+	data.send(null);
+
+	var LF = String.fromCharCode(10); //改行ｺｰﾄﾞ
+	var lines = data.responseText.split(LF);
+	for (var i = 0; i < lines.length;++i) {
+		var cells = lines[i].split(",");
+		if( cells.length != 1 ) {
+			csvData.push(cells);
+		}
+	}
+	return csvData;
+}
+function convertCSVtoArray(str){ // 読み込んだCSVデータが文字列として渡される
+    var result = []; // 最終的な二次元配列を入れるための配列
+    var tmp = str.split("\n"); // 改行を区切り文字として行を要素とした配列を生成
+
+    // 各行ごとにカンマで区切った文字列を要素とした二次元配列を生成
+    for(var i=0;i<tmp.length;++i){
+        result[i] = tmp[i].split(',');
+    }
+
+    alert(result[1][2]); // 300yen
+}
+function showError( message ) {
+	errorDiv.innerHTML = message;
+}
+
+function showMessage( message ) {
+	messageDiv.innerHTML += message;
+}
+
+window.addEventListener( 'load', function() {
+
+	/*GSVpano　メッセージ出力設定*/
+	showMessage( 'Starting...<br/>' );
+
+	loader = new GSVPANO.PanoLoader( {
+		zoom: 1
+	} );
+
+	loader.onSizeChange = function() {
+		showMessage( 'Size changed' );
+	};
+	;
+
+	loader.onPanoramaData = function( result ) {
+		showMessage( 'Panorama OK.<br/>Load started' );
+	}
+
+	loader.onNoPanoramaData = function( status ) {
+		showError("ストリートビュー非対応エリアです: " + status);
+	}
+
+	loader.onProgress = function( p ) {
+		showMessage( '.' );
+	};
+
+	loader.onError = function( message ) {
+		showMessage( 'Error: ' + message );
+	};
+
+	loader.onPanoramaLoad = function() {
+
+		showMessage( ' finished.<br/>' );
+		document.querySelector("#GSVPano").appendChild( this.canvas );
+
+		var dataUrl = this.canvas.toDataURL("image/png");
+		 document.getElementById("newImg").src = dataUrl;
+		console.log(this.canvas);
+		// document.getElementById("sample-download").href = dataUrl;
+		showMessage( 'Panorama loaded, street view data ' + this.copyright + '.<br/>' );
+
+	};
+
+
+	// Google Maps API 設定
+	var mapDiv = document.getElementById("map_canvas");
+	var map = new google.maps.Map(mapDiv, {
+		center : new google.maps.LatLng(36.322356, 139.013057),
+		navigationControl: true,
+		draggableCursor: 'crosshair',draggingCursor: 'move',
+		zoom : 15,
+		mapTypeId : google.maps.MapTypeId.ROADMAP
+	});
+
+	//クリックイベント設定
+	google.maps.event.addListener(map, 'click', function(event){
+		// console.log(event.latLng);
+		// messageDiv.innerHTML = "";
+		// errorDiv.innerHTML = "";
+		var pos = new google.maps.LatLng(csv[tableNum][9], csv[tableNum][8]);
+		tableNum++;
+		loader.load(pos); //パノラマを表示
+				map.panTo(pos);
+console.log(pos);
+ // var dataUrl = canvas.toDataUrl("image/png");
+	});
+
+});
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-27276322-1', 'shimz.me');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>
