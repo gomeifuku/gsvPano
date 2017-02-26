@@ -136,7 +136,8 @@ window.addEventListener( 'load', function() {
 		var dataUrl = this.canvas.toDataURL("image/png");
 		 document.getElementById("newImg").src = dataUrl;
 
-		 document.getElementById("sample-download").href = dataUrl;
+		 		 document.getElementById("sample-download").href = dataUrl;
+				 		 document.getElementById("sample-download").download ="1.png";
 		console.log(this.canvas);
 		// document.getElementById("sample-download").href = dataUrl;
 		showMessage( 'Panorama loaded, street view data ' + this.copyright + '.<br/>' );
