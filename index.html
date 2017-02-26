@@ -53,7 +53,7 @@ canvas{
 //test
 var messageDiv = document.getElementById( 'messageDiv' );
 var errorDiv = document.getElementById( 'errorDiv' );
-var tableNum=1;
+var tableNum=0;
 var csv=csv2Array("H2V_2.csv");
 console.log(csv);
 // var req = new XMLHttpRequest();
@@ -138,6 +138,7 @@ window.addEventListener( 'load', function() {
 
 	   document.getElementById("sample-download").href = dataUrl;
 		 var pngFileName="";
+		 pngFileName+="No";
 		 pngFileName+=csv[tableNum][0];
 		 pngFileName+=".png";
 		 document.getElementById("sample-download").download =pngFileName;
